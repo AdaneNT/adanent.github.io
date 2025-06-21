@@ -8,7 +8,7 @@
         <tr>
             <td width="200px" valign="top">
                 <img src="images/ad.jpg" width="160" alt="Adane N. Tarekegn" />
-                <h1>Adane N. Tarekegn</h1>
+                <h3>Adane N. Tarekegn</h3>
                 <p>📍 Bergen, Norway</p>
                 <p>
                     <a href="https://www.linkedin.com/in/yourprofile">
