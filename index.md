@@ -31,8 +31,7 @@
                 </p>
             </td>
             <td valign="top">
-                <h3>👋 Hi, welcome to my page!</h3>
-                <p>I’m <strong>Adane</strong>, a postdoctoral researcher at the University of Bergen (UiB), working on <em>multimodal video understanding</em>, <em>self-supervised learning</em>, and <em>AI for media content</em>.</p>
+                <p>I’m <strong>Adane</strong>, I am a postdoctoral researcher at Mediafutures SFI MediaFutures, University of Bergen, Norway, focusing on machine learning,computer vision  and multimodal learning </p>
                 <p>Previously, I was a PhD candidate at <a href="#">Your University</a>, working on efficient video-language representation learning.</p>
                 <hr>
                 <h3>🧠 Research Interests</h3>
