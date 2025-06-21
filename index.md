@@ -2,12 +2,6 @@
 layout: default
 ---
 
-<style>
-table, tr, td {
-  border: none !important;
-}
-</style>
-
 <table style="border-collapse: collapse; border: none;">
 <tr style="border: none;">
 <td width="200" valign="top" style="border: none;">
