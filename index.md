@@ -32,7 +32,7 @@
             </td>
             <td valign="top">
                 <p>I am a postdoctoral researcher at SFI MediaFutures, University of Bergen, Norway </p>
-                <p>Previously, I was a PhD candidate at <a href="#">Your University</a>, working on efficient video-language representation learning.</p>
+                <p>Previously, I was a PhD candidate at <a href="https://dottorato-mds.campusnet.unito.it/do/home.pl">University of Torino</a>, working on efficient video-language representation learning.</p>
                 <hr>
                 <h3>🧠 Research Interests</h3>
                 <ul>
