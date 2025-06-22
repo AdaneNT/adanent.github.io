@@ -7,8 +7,9 @@
         <tr>
             <td width="200px" valign="top">
                 <img src="images/ad.jpg" width="160" style="border-radius: 60%;" alt="Adane N. Tarekegn" />
-                <h5 style="margin: 0;">Adane N. Tarekegn</h5>
-                <h5 style="margin: 0;">Bergen, Norway</h5>
+                <h5 style="margin: 0 0 4px 0;">Adane N. Tarekegn</h5>
+                <h5 style="margin: 0 0 10px 0;">Bergen, Norway</h5>
+                
                 <p>
                     <a href="https://www.linkedin.com/in/adanet/" target="_blank">
                         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
