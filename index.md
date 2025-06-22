@@ -45,7 +45,7 @@
                
                                
                 <hr>
-                <h3>Projects Projects I Worked On</h3>
+                <h3>Projects I Worked On</h3>
                 <ul>
                     <li>
                         <a href="https://mediafutures.no/" target="_blank"><strong>MediaFutures</strong></a> 
@@ -55,6 +55,7 @@
                     </li>
                     <li>
                         <a href="https://agile.ro/adriatic/" target="_blank"><strong>ADRIATIC Project</strong></a>
+                    </li>
                 </ul>
 
                 <hr>
