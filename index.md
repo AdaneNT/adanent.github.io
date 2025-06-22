@@ -45,13 +45,19 @@
                
                                
                 <hr>
-                <h3>🧠 Research Interests</h3>
+                <h3>🌍 International Projects and Collaborations</h3>
                 <ul>
-                    <li>Multimodal video understanding</li>
-                    <li>Self-supervised learning</li>
-                    <li>Contrastive and generative modeling</li>
-                    <li>Editorial AI and media content</li>
+                    <li>
+                        <a href="https://mediafutures.no/" target="_blank"><strong>MediaFutures</strong></a> – Research center for responsible media technology and innovation.
+                    </li>
+                    <li>
+                        <a href="https://alamedaproject.eu/" target="_blank"><strong>Alameda Project</strong></a> – AI-driven support system for personalized health monitoring.
+                    </li>
+                    <li>
+                        <a href="https://agile.ro/adriatic/" target="_blank"><strong>ADRIATIC Project</strong></a> – Advanced data-driven research for intelligent content.
+                    </li>
                 </ul>
+
                 <hr>
                 <h3>📚 Selected Publications</h3>
                 <ul>
