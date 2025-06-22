@@ -5,34 +5,40 @@
 <body>
     <table>
         <tr>
-            <td width="200px" valign="top">
-                <img src="images/ad.jpg" width="160" style="border-radius: 60%;" alt="Adane N. Tarekegn" />
-               
-                <h5 style="margin: 0 0 4px 0;">Adane N. Tarekegn</h5>
-                <h5 style="margin: 0 0 10px 0;">Bergen, Norway</h5>
-                
-                <p>
-                    <a href="https://www.linkedin.com/in/adanet/" target="_blank">
-                        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+        <td width="200px" valign="top" style="text-align: center; font-family: Arial, sans-serif;">
+            <img src="images/ad.jpg" width="140" style="border-radius: 50%; border: 4px solid #f0f0f0;" alt="Adane N. Tarekegn" />
+            <div style="font-size: 18px; font-weight: bold; margin-top: 15px; margin-bottom: 5px;">Adane N. Tarekegn</div>
+            <div style="color: #555; font-size: 14px; margin-bottom: 20px;">📍 Bergen, Norway</div>
+        
+            <ul style="list-style: none; padding: 0; margin: 0;">
+                <li style="margin-bottom: 10px;">
+                    <a href="https://www.linkedin.com/in/adanet/" target="_blank" style="text-decoration: none; color: black;">
+                        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" style="height: 18px; vertical-align: middle; margin-right: 6px; filter: invert(18%) sepia(97%) saturate(747%) hue-rotate(182deg) brightness(95%) contrast(85%);">
+                        LinkedIn
                     </a>
-                </p>
-                <p>
-                    <a href="https://github.com/AdaneNT" target="_blank">
-                        <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+                </li>
+                <li style="margin-bottom: 10px;">
+                    <a href="https://github.com/AdaneNT" target="_blank" style="text-decoration: none; color: black;">
+                        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" style="height: 18px; vertical-align: middle; margin-right: 6px;">
+                        GitHub
                     </a>
-                </p>
-                <p>
-                    <a href="https://scholar.google.com/citations?user=HE0_5twAAAAJ&hl=en" target="_blank">
-                        <img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" alt="Google Scholar">
+                </li>
+                <li style="margin-bottom: 10px;">
+                    <a href="https://scholar.google.com/citations?user=HE0_5twAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: black;">
+                        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" alt="Google Scholar" style="height: 18px; vertical-align: middle; margin-right: 6px;">
+                        Scholar
                     </a>
-                </p>
-                <p>
-                    <a href="mailto:nega2002@gmail.com">
-                        <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+                </li>
+                <li>
+                    <a href="mailto:nega2002@gmail.com" style="text-decoration: none; color: black;">
+                        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" style="height: 18px; vertical-align: middle; margin-right: 6px;">
+                        Email
                     </a>
-                </p>
-            </td>
-            <td valign="top">
+                </li>
+            </ul>
+        </td>
+
+    <td valign="top">
                 
 <p style="text-align: justify;">
     I am a postdoctoral researcher at the Department of Information Science and Media Studies, University of Bergen, Norway. My current research focuses on video analysis, multi-modal machine learning, and deep generative models for content production and analysis at the SFI MediaFutures research center.
