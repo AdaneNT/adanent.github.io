@@ -1,10 +1,12 @@
 <html>
-<style>
-  header h1 {
-    display: none;
-  }
-</style>
-
+<head>
+  <title>Adane N. Tarekegn</title> 
+  <style>
+    h1, header h1 {
+      display: none;
+    }
+  </style>
+</head>
 <body>
     <table>
         <tr>
