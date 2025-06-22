@@ -39,8 +39,7 @@
     I obtained my Ph.D. in <a href="https://dottorato-mds.campusnet.unito.it/do/home.pl">Modeling and Data Science</a> from the University of Torino, Italy. 
 During that time, I spent a period as a visiting researcher at Wroclaw University of Economics and Business, Poland, where I collaborated on machine learning research project</p>
                
-                
-                </p>
+                               
                 <hr>
                 <h3>🧠 Research Interests</h3>
                 <ul>
