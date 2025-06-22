@@ -1,3 +1,7 @@
+<head>
+  <title>Adane N. Tarekegn</title>
+</head>
+
 <html>
 <head>
 <title>Adane N. Tarekegn</title> 
