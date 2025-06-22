@@ -45,18 +45,19 @@
                
                                
                 <hr>
-                <h3> International Projects </h3>
+                <h3>🌍 International Projects</h3>
                 <ul>
                     <li>
-                        <a href="https://mediafutures.no/" target="_blank"><strong>MediaFutures</strong></a> 
+                        <strong>MediaFutures</strong> – Multimodal AI for Content Analysis and Generation (WP3)
                     </li>
                     <li>
-                        <a href="https://alamedaproject.eu/" target="_blank"><strong>Alameda Project</strong></a> 
+                        <strong>Alameda Project</strong> – Data Aggregation, AI Analytics, and Deep Learning (WP4)
                     </li>
                     <li>
-                        <a href="https://agile.ro/adriatic/" target="_blank"><strong>ADRIATIC Project</strong></a>
+                        <strong>ADRIATIC Project</strong> – Image Preprocessing and Computer Vision for Underwater Environments (WP4)
                     </li>
                 </ul>
+
 
                 <hr>
                 <h3>📚 Selected Publications</h3>
