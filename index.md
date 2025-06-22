@@ -1,22 +1,9 @@
 <html>
-<head>
-  <title>Adane N. Tarekegn</title> 
-  <style>
-    /* Hide GitHub Pages or Jekyll theme auto title */
-    .site-title, header h1 {
-      display: none;
-    }
-
-    /* Your custom black title */
-    h1.custom-title {
-      color: black;
-      font-family: Arial, sans-serif;
-      font-size: 28px;
-      margin: 20px 0;
-      text-align: center; /* Optional: center it */
-    }
-  </style>
-</head>
+<style>
+  .site-title {
+    display: none;
+  }
+</style>
 <body>
 <h1 class="custom-title">Adane Nega Tarekegn</h1>
 
