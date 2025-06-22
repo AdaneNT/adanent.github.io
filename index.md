@@ -61,41 +61,25 @@
                <hr>
                 <h3>Selected Publications</h3>
                 <ul>
-                     
                   <li>
-                    <strong>A Review of Methods for Imbalanced Multi‑Label Classification</strong><br>
-                    <strong>A. N. Tarekegn</strong>, M. Giacobini, K. Michalak (2021), 
-                    <strong><em>Pattern Recognit.</em></strong><br>
-                    <a href="https://doi.org/10.1016/j.patcog.2021.107965" target="_blank">[Paper]</a>
+                    <strong>A New Cluster Validation Index Based on Stability Analysis</strong><br>
+                    <strong>A. N. Tarekegn</strong>, B. Tessem, F. Rabbi (2025), 
+                    <strong><em>ICPRAM</em></strong> – Int. Conf. on Pattern Recognition Applications and Methods, Porto, Portugal, pp. 377–384<br>
+                    <a href="https://doi.org/10.5220/0013309100003905" target="_blank">[Paper]</a>
                   </li>
                 
                   <li>
-                    <strong>Predictive Modeling for Frailty Conditions in Elderly People: Machine Learning Approaches</strong><br>
-                    <strong>A. N. Tarekegn</strong>, F. Ricceri, G. Costa, E. Ferracin, M. Giacobini (2020), 
-                    <strong><em>JMIR Med. Inform.</em></strong>, 8(6):e16678<br>
-                    <a href="https://doi.org/10.2196/16678" target="_blank">[Paper]</a> | 
-                    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7303829/" target="_blank">[PMC]</a>
-                  </li>
-                  
-                   <li>
                     <strong>Optimized Efficient Attention‑Based Network for Facial Expressions Analysis in Neurological Health Care</strong><br>
                     M. Munsif, M. Sajjad, M. Ullah, <strong>A. N. Tarekegn</strong>, F. A. Cheikh, P. Tsakanikas (2024), 
                     <strong><em>Comput. Biol. Med.</em></strong><br>
                     <a href="https://doi.org/10.1016/j.compbiomed.2024.108822" target="_blank">[Paper]</a>
                   </li>
-                  
+                
                   <li>
                     <strong>Predicting Multiple Outcomes Associated with Frailty Based on Imbalanced Multi‑Label Classification</strong><br>
                     <strong>A. N. Tarekegn</strong>, K. Michalak, G. Costa, F. Ricceri, M. Giacobini (2024), 
-                    <strong><em>J. Healthc. Inform. Res.</em></strong><br>
+                    <strong><em>J. Healthc. Inform. Res.</em></strong>, 8, 594–618<br>
                     <a href="https://doi.org/10.1007/s41666-024-00173-6" target="_blank">[Paper]</a>
-                  </li>
-                
-                  <li>
-                    <strong>Enhancing Human Activity Recognition Through Sensor Fusion and Hybrid Deep Learning Model</strong><br>
-                    <strong>A. N. Tarekegn</strong>, M. Ullah, F. A. Cheikh, M. Sajjad (2023), 
-                    <strong><em>ICASSPW</em></strong> – IEEE Int. Conf. on Acoustics, Speech, and Signal Processing Workshops<br>
-                    <a href="https://doi.org/10.1109/ICASSPW59220.2023.10193698" target="_blank">[Paper]</a>
                   </li>
                 
                   <li>
@@ -103,6 +87,13 @@
                     <strong>A. N. Tarekegn</strong>, M. Sajjad, F. Alaya Cheikh, M. Ullah, K. Muhammad (2023), 
                     <strong><em>IEEE Sens. J.</em></strong>, 23(22), 28355–28369<br>
                     <a href="https://doi.org/10.1109/JSEN.2023.3319353" target="_blank">[Paper]</a>
+                  </li>
+                
+                  <li>
+                    <strong>Enhancing Human Activity Recognition Through Sensor Fusion and Hybrid Deep Learning Model</strong><br>
+                    <strong>A. N. Tarekegn</strong>, M. Ullah, F. A. Cheikh, M. Sajjad (2023), 
+                    <strong><em>ICASSPW</em></strong> – IEEE Int. Conf. on Acoustics, Speech, and Signal Processing Workshops<br>
+                    <a href="https://doi.org/10.1109/ICASSPW59220.2023.10193698" target="_blank">[Paper]</a>
                   </li>
                 
                   <li>
@@ -120,14 +111,20 @@
                   </li>
                 
                   <li>
-                    <strong>A New Cluster Validation Index Based on Stability Analysis</strong><br>
-                    <strong>A. N. Tarekegn</strong>, B. Tessem, F. Rabbi (2025), 
-                    <strong><em>ICPRAM</em></strong> – Int. Conf. on Pattern Recognition Applications and Methods, Porto, Portugal, pp. 377–384<br>
-                    <a href="https://doi.org/10.5220/0013309100003905" target="_blank">[Paper]</a>
+                    <strong>A Review of Methods for Imbalanced Multi‑Label Classification</strong><br>
+                    <strong>A. N. Tarekegn</strong>, M. Giacobini, K. Michalak (2021), 
+                    <strong><em>Pattern Recognit.</em></strong><br>
+                    <a href="https://doi.org/10.1016/j.patcog.2021.107965" target="_blank">[Paper]</a>
+                  </li>
+                
+                  <li>
+                    <strong>Predictive Modeling for Frailty Conditions in Elderly People: Machine Learning Approaches</strong><br>
+                    <strong>A. N. Tarekegn</strong>, F. Ricceri, G. Costa, E. Ferracin, M. Giacobini (2020), 
+                    <strong><em>JMIR Med. Inform.</em></strong>, 8(6):e16678<br>
+                    <a href="https://doi.org/10.2196/16678" target="_blank">[Paper]</a> | 
+                    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7303829/" target="_blank">[PMC]</a>
                   </li>
                 </ul>
-
-
 
                 <hr>
                 <h3>🎓 Teaching & Mentorship</h3>
