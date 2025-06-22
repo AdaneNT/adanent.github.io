@@ -6,7 +6,7 @@
   <title>Adane N. Tarekegn</title>
 
   <!-- SEO Meta Tags -->
-  <meta name="description" content="Official personal page of Adane N. Tarekegn – postdoctoral researcher at University of Bergen. Specializing in multimodal AI, deep learning, and video content analysis.">
+  <meta name="description" content="Official personal page of Adane N. Tarekegn – postdoctoral researcher at University of Bergen.">
   <meta name="keywords" content="Adane Tarekegn, AI, Data Science, Machine Learning, Multimodal AI, Deep Learning, Computer Vision, Research, University of Bergen">
   <meta name="author" content="Adane N. Tarekegn">
 
@@ -22,10 +22,9 @@
   <meta name="twitter:title" content="Adane N. Tarekegn">
   <meta name="twitter:description" content="Postdoctoral researcher in multimodal AI, deep learning, and content analysis.">
 
-  <!-- Favicon (optional but recommended) -->
+  <!-- Favicon (optional) -->
   <link rel="icon" href="images/ad.jpg" type="image/jpeg">
 </head>
-
 
 <body>
     <table>
