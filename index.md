@@ -62,68 +62,60 @@
                 <h3>Selected Publications</h3>
                 <ul>
                   <li>
-                    <strong>A. N. Tarekegn</strong>, B. Tessem, F. Rabbi (2025) <strong>A New Cluster Validation Index Based on Stability Analysis</strong><br>,
-                   <strong><em>ICPRAM</em></strong> – Int. Conf. on Pattern Recognition Applications and Methods, Porto, Portugal, pp. 377–384<br>
+                    <strong>A. N. Tarekegn</strong>, B. Tessem, F. Rabbi (2025), <strong>A New Cluster Validation Index Based on Stability Analysis</strong><br>
+                    <strong><em>ICPRAM</em></strong> – Int. Conf. on Pattern Recognition Applications and Methods, Porto, Portugal, pp. 377–384<br>
                     <a href="https://doi.org/10.5220/0013309100003905" target="_blank">[Paper]</a> <a href="https://github.com/AdaneNT/CSAI" target="_blank">[Code]</a>
                   </li>
-                 
+                
                   <li>
-                   <strong>A. N. Tarekegn</strong>, M. Sajjad, F. Alaya Cheikh, M. Ullah, K. Muhammad (2023) <strong>Efficient Human Gait Activity Recognition Based on Sensor Fusion and Intelligent Stacking Framework</strong><br>,
-                    
+                    <strong>A. N. Tarekegn</strong>, M. Sajjad, F. Alaya Cheikh, M. Ullah, K. Muhammad (2023), <strong>Efficient Human Gait Activity Recognition Based on Sensor Fusion and Intelligent Stacking Framework</strong><br>
                     <strong><em>IEEE Sensors Journal</em></strong>, 23(22), 28355–28369<br>
                     <a href="https://doi.org/10.1109/JSEN.2023.3319353" target="_blank">[Paper]</a> <a href="https://github.com/AdaneNT/Ensemble-Deep-Learning-" target="_blank">[Code]</a>
                   </li>
-                        
+                
                   <li>
-                    <strong>A Review of Methods for Imbalanced Multi‑Label Classification</strong><br>
-                    <strong>A. N. Tarekegn</strong>, M. Giacobini, K. Michalak (2021), 
+                    <strong>A. N. Tarekegn</strong>, M. Giacobini, K. Michalak (2021), <strong>A Review of Methods for Imbalanced Multi‑Label Classification</strong><br>
                     <strong><em>Pattern Recognition</em></strong><br>
                     <a href="https://doi.org/10.1016/j.patcog.2021.107965" target="_blank">[Paper]</a>
                   </li>
-                  
+                
                   <li>
-                    <strong>Optimized Efficient Attention‑Based Network for Facial Expressions Analysis in Neurological Health Care</strong><br>
-                    M. Munsif, M. Sajjad, M. Ullah, <strong>A. N. Tarekegn</strong>, F. A. Cheikh, P. Tsakanikas (2024), 
+                    M. Munsif, M. Sajjad, M. Ullah, <strong>A. N. Tarekegn</strong>, F. A. Cheikh, P. Tsakanikas (2024), <strong>Optimized Efficient Attention‑Based Network for Facial Expressions Analysis in Neurological Health Care</strong><br>
                     <strong><em>Comput. Biol. Med.</em></strong><br>
                     <a href="https://doi.org/10.1016/j.compbiomed.2024.108822" target="_blank">[Paper]</a> <a href="https://github.com/munsif200/Neurological-Health-Care" target="_blank">[Code]</a>
                   </li>
                 
                   <li>
-                    <strong>Predicting Multiple Outcomes Associated with Frailty Based on Imbalanced Multi‑Label Classification</strong><br>
-                    <strong>A. N. Tarekegn</strong>, K. Michalak, G. Costa, F. Ricceri, M. Giacobini (2024), 
+                    <strong>A. N. Tarekegn</strong>, K. Michalak, G. Costa, F. Ricceri, M. Giacobini (2024), <strong>Predicting Multiple Outcomes Associated with Frailty Based on Imbalanced Multi‑Label Classification</strong><br>
                     <strong><em>J. Healthc. Inform. Res.</em></strong>, 8, 594–618<br>
                     <a href="https://doi.org/10.1007/s41666-024-00173-6" target="_blank">[Paper]</a>
                   </li>
-                        
+                
                   <li>
-                    <strong>Enhancing Human Activity Recognition Through Sensor Fusion and Hybrid Deep Learning Model</strong><br>
-                    <strong>A. N. Tarekegn</strong>, M. Ullah, F. A. Cheikh, M. Sajjad (2023), 
+                    <strong>A. N. Tarekegn</strong>, M. Ullah, F. A. Cheikh, M. Sajjad (2023), <strong>Enhancing Human Activity Recognition Through Sensor Fusion and Hybrid Deep Learning Model</strong><br>
                     <strong><em>ICASSPW</em></strong> – IEEE Int. Conf. on Acoustics, Speech, and Signal Processing Workshops<br>
                     <a href="https://doi.org/10.1109/ICASSPW59220.2023.10193698" target="_blank">[Paper]</a> <a href="https://github.com/AdaneNT/Wearable-Sensor-Data-Analysis-" target="_blank">[Code]</a>
                   </li>
                 
                   <li>
-                    <strong>Underwater Object Detection Using Image Enhancement and Deep Learning Models</strong><br>
-                    <strong>A. N. Tarekegn</strong>, F. A. Cheikh, M. Ullah, E. T. Sollesnes (2023), 
+                    <strong>A. N. Tarekegn</strong>, F. A. Cheikh, M. Ullah, E. T. Sollesnes (2023), <strong>Underwater Object Detection Using Image Enhancement and Deep Learning Models</strong><br>
                     <strong><em>EUVIP</em></strong> – Eur. Workshop on Visual Information Processing<br>
                     <a href="https://doi.org/10.1109/EUVIP58404.2023.10323047" target="_blank">[Paper]</a> <a href="https://github.com/AdaneNT/Underwater-Object-Detection-" target="_blank">[Code]</a>
                   </li>
                 
                   <li>
-                    <strong>Self‑Supervised Animal Detection in Indoor Environment</strong><br>
-                    Y. Taifour, H. Afridi, <strong>A. N. Tarekegn</strong>, M. Ullah (2023), 
+                    Y. Taifour, H. Afridi, <strong>A. N. Tarekegn</strong>, M. Ullah (2023), <strong>Self‑Supervised Animal Detection in Indoor Environment</strong><br>
                     <strong><em>IPTA</em></strong> – Int. Conf. on Image Processing Theory, Tools and Applications<br>
                     <a href="https://doi.org/10.1109/IPTA58262.2023.10336270" target="_blank">[Paper]</a>
                   </li>
                 
                   <li>
-                    <strong>Predictive Modeling for Frailty Conditions in Elderly People: Machine Learning Approaches</strong><br>
-                    <strong>A. N. Tarekegn</strong>, F. Ricceri, G. Costa, E. Ferracin, M. Giacobini (2020), 
+                    <strong>A. N. Tarekegn</strong>, F. Ricceri, G. Costa, E. Ferracin, M. Giacobini (2020), <strong>Predictive Modeling for Frailty Conditions in Elderly People: Machine Learning Approaches</strong><br>
                     <strong><em>JMIR Med. Inform.</em></strong>, 8(6):e16678<br>
-                    <a href="https://doi.org/10.2196/16678" target="_blank">[Paper]</a> | 
-                   </a> <a href="https://medinform.jmir.org/2020/6/e16678/" target="_blank">[Code]</a>
+                    <a href="https://doi.org/10.2196/16678" target="_blank">[Paper]</a> <a href="https://medinform.jmir.org/2020/6/e16678/" target="_blank">[Code]</a>
                   </li>
                 </ul>
+
 
                 <hr>
                 <h3>🎓 Teaching & Mentorship</h3>
