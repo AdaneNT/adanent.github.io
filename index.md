@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Adane N. Tarekegn</title>
+<title>Adane N. Tarekegn</title> 
 </head>
 <body>
     <table>
@@ -32,8 +32,8 @@
             </td>
             <td valign="top">
      
-            <p>I am a postdoctoral researcher at the Department of Information Science and Media Studies, University of Bergen, Norway. Before, I was a researcher in machine learning at the Department of computer science, Norwegian University of Science and Technology (NTNU) </p> 
-            
+            <p>I am a postdoctoral researcher at the Department of Information Science and Media Studies, University of Bergen, Norway. </p> 
+          
 
                 <p>Previously, I was a PhD candidate at <a href="https://dottorato-mds.campusnet.unito.it/do/home.pl">University of Torino</a>, working on efficient video-language representation learning.</p>
                 <hr>
