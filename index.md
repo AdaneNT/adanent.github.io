@@ -71,14 +71,14 @@
                   <li>
                     <strong>Efficient Human Gait Activity Recognition Based on Sensor Fusion and Intelligent Stacking Framework</strong><br>
                     <strong>A. N. Tarekegn</strong>, M. Sajjad, F. Alaya Cheikh, M. Ullah, K. Muhammad (2023), 
-                    <strong><em>IEEE Sens. J.</em></strong>, 23(22), 28355–28369<br>
+                    <strong><em>IEEE Sensors Journal</em></strong>, 23(22), 28355–28369<br>
                     <a href="https://doi.org/10.1109/JSEN.2023.3319353" target="_blank">[Paper]</a> <a href="https://github.com/AdaneNT/Ensemble-Deep-Learning-" target="_blank">[Code]</a>
                   </li>
                         
                   <li>
                     <strong>A Review of Methods for Imbalanced Multi‑Label Classification</strong><br>
                     <strong>A. N. Tarekegn</strong>, M. Giacobini, K. Michalak (2021), 
-                    <strong><em>Pattern Recognit.</em></strong><br>
+                    <strong><em>Pattern Recognition</em></strong><br>
                     <a href="https://doi.org/10.1016/j.patcog.2021.107965" target="_blank">[Paper]</a>
                   </li>
                   
@@ -122,7 +122,7 @@
                     <strong>A. N. Tarekegn</strong>, F. Ricceri, G. Costa, E. Ferracin, M. Giacobini (2020), 
                     <strong><em>JMIR Med. Inform.</em></strong>, 8(6):e16678<br>
                     <a href="https://doi.org/10.2196/16678" target="_blank">[Paper]</a> | 
-                    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7303829/" target="_blank">[PMC]</a>
+                   </a> <a href="https://medinform.jmir.org/2020/6/e16678/" target="_blank">[Code]</a>
                   </li>
                 </ul>
 
