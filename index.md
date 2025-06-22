@@ -48,18 +48,17 @@
                 <h3>🌍 International Projects</h3>
                 <ul>
                     <li>
-                        <strong>MediaFutures</strong> – Multimodal AI for Content Analysis and Generation (WP3)
+                        <a href="https://mediafutures.no/" target="_blank"><strong>MediaFutures</strong></a> – Multimodal AI for Content Analysis and Generation (WP3)
                     </li>
                     <li>
-                        <strong>Alameda Project</strong> – Data Aggregation, AI Analytics, and Deep Learning (WP4)
+                        <a href="https://alamedaproject.eu/" target="_blank"><strong>Alameda Project</strong></a> – Data Aggregation, AI Analytics, and Deep Learning (WP4)
                     </li>
                     <li>
-                        <strong>ADRIATIC Project</strong> – Image Preprocessing and Computer Vision for Underwater Environments (WP4)
+                        <a href="https://agile.ro/adriatic/" target="_blank"><strong>ADRIATIC Project</strong></a> – Image Preprocessing and Computer Vision (WP4)
                     </li>
                 </ul>
 
-
-                <hr>
+               <hr>
                 <h3>📚 Selected Publications</h3>
                 <ul>
                     <li><strong>Bayesian Video Summarization with Mamba Blocks</strong>, ECCV 2025 — <a href="#">PDF</a> | <a href="#">Code</a></li>
