@@ -119,12 +119,12 @@
 
 
                 <hr>
-                <h3>🎓 Teaching & Mentorship</h3>
+                <h3>Teaching & Mentorship</h3>
                 <ul>
-                <li>BSc: <em>AI Ethics</em>, UiB 2024–2025</li>
-                <li>MSc: <em>Deep Learning & Computer Vision</em>, UiB 2024–2025</li>
-                <li>MSc: <em>Machine Learning</em>, BDU 2021</li>
-                <li>Thesis supervision: Machine Learning, Deep Learning, Data Science (2021–2024); Multimodal summarization, Video-text alignment, Editorial-AI</li>
+                <li>BSc: <em>AI Ethics</em>, UiB, 2024–2025</li>
+                <li>MSc: <em>Deep Learning & Computer Vision</em>, UW, 2024–2025</li>
+                <li>MSc: <em>Machine Learning</em>, BDU, 2021</li>
+                <li>Thesis supervision: Machine Learning, Deep Learning, Data Science (2021–2024)</li>
                 </ul>
             </td>
         </tr>
