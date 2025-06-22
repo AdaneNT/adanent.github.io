@@ -8,7 +8,7 @@
         <td width="200px" valign="top" style="text-align: center; font-family: Arial, sans-serif;">
             <img src="images/ad.jpg" width="140" style="border-radius: 50%; border: 4px solid #f0f0f0;" alt="Adane N. Tarekegn" />
             <div style="font-size: 18px; font-weight: bold; margin-top: 15px; margin-bottom: 5px;">Adane N. Tarekegn</div>
-            <div style="color: #555; font-size: 14px; margin-bottom: 20px;">📍 Bergen, Norway</div>
+            <div style="color: #555; font-size: 14px; margin-bottom: 20px;"> Bergen, Norway</div>
         
             <ul style="list-style: none; padding: 0; margin: 0;">
                 <li style="margin-bottom: 10px;">
@@ -20,7 +20,7 @@
                 <li style="margin-bottom: 10px;">
                     <a href="https://scholar.google.com/citations?user=HE0_5twAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: black;">
                         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" alt="Google Scholar" style="height: 18px; vertical-align: middle; margin-right: 6px;">
-                        Scholar
+                        Google Scholar
                     </a>
                 </li>
                 <li style="margin-bottom: 10px;">
