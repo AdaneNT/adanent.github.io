@@ -8,27 +8,27 @@
             <td width="200px" valign="top">
                 <img src="images/ad.jpg" width="160" style="border-radius: 60%;" alt="Adane N. Tarekegn" />
                 <h5>Adane N. Tarekegn</h5>
-                <p>📍 Bergen, Norway</p>
+                <h5>Bergen, Norway</h5>
                 <p>
-                    <a href="https://www.linkedin.com/in/yourprofile">
+                    <a href="https://www.linkedin.com/in/adanet/" target="_blank">
                         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
                     </a>
                 </p>
                 <p>
-                    <a href="https://github.com/adanent">
+                    <a href="https://github.com/AdaneNT" target="_blank">
                         <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
                     </a>
                 </p>
                 <p>
-                    <a href="https://scholar.google.com/citations?user=yourID">
+                    <a href="https://scholar.google.com/citations?user=HE0_5twAAAAJ&hl=en" target="_blank">
                         <img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" alt="Google Scholar">
                     </a>
                 </p>
                 <p>
-                    <a href="mailto:adane.tarekegn@uib.no">
+                    <a href="mailto:nega2002@gmail.com">
                         <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
                     </a>
-                </p>     <a href="https://mediafutures.no/">SFI MediaFutures</a>
+                </p>
             </td>
             <td valign="top">
                 
