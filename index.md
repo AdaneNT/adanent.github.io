@@ -10,33 +10,26 @@
             <div style="font-size: 18px; font-weight: bold; margin-top: 15px; margin-bottom: 5px;">Adane N. Tarekegn</div>
             <div style="color: #555; font-size: 14px; margin-bottom: 20px;"> Bergen, Norway</div>
         
-            <ul style="list-style: none; padding: 0; margin: 0;">
-                <li style="margin-bottom: 10px;">
-                    <a href="https://www.linkedin.com/in/adanet/" target="_blank" style="text-decoration: none; color: black;">
-                        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" style="height: 18px; vertical-align: middle; margin-right: 6px; filter: invert(18%) sepia(97%) saturate(747%) hue-rotate(182deg) brightness(95%) contrast(85%);">
-                        LinkedIn
-                    </a>
+            <ul style="list-style: none; padding: 0; margin: 0; text-align: left; display: inline-block;">
+                <li style="margin-bottom: 10px; display: flex; align-items: center;">
+                    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" style="height: 18px; width: 18px; margin-right: 8px; filter: invert(18%) sepia(97%) saturate(747%) hue-rotate(182deg) brightness(95%) contrast(85%);">
+                    <a href="https://www.linkedin.com/in/adanet/" target="_blank" style="text-decoration: none; color: black;">LinkedIn</a>
                 </li>
-                <li style="margin-bottom: 10px;">
-                    <a href="https://scholar.google.com/citations?user=HE0_5twAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: black;">
-                        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" alt="Google Scholar" style="height: 18px; vertical-align: middle; margin-right: 6px;">
-                        Scholar
-                    </a>
+                <li style="margin-bottom: 10px; display: flex; align-items: center;">
+                    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" alt="Google Scholar" style="height: 18px; width: 18px; margin-right: 8px;">
+                    <a href="https://scholar.google.com/citations?user=HE0_5twAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: black;">Google Scholar</a>
                 </li>
-                <li style="margin-bottom: 10px;">
-                    <a href="https://github.com/AdaneNT" target="_blank" style="text-decoration: none; color: black;">
-                        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" style="height: 18px; vertical-align: middle; margin-right: 6px;">
-                        GitHub
-                    </a>
+                <li style="margin-bottom: 10px; display: flex; align-items: center;">
+                    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" style="height: 18px; width: 18px; margin-right: 8px;">
+                    <a href="https://github.com/AdaneNT" target="_blank" style="text-decoration: none; color: black;">GitHub</a>
                 </li>
-                <li>
-                    <a href="mailto:nega2002@gmail.com" style="text-decoration: none; color: black;">
-                        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" style="height: 18px; vertical-align: middle; margin-right: 6px;">
-                        Email
-                    </a>
+                <li style="display: flex; align-items: center;">
+                    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" style="height: 18px; width: 18px; margin-right: 8px;">
+                    <a href="mailto:nega2002@gmail.com" style="text-decoration: none; color: black;">Email</a>
                 </li>
             </ul>
         </td>
+
 
     <td valign="top">
                 
