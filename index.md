@@ -59,18 +59,65 @@
                 </ul>
 
                <hr>
-                <h3>📚 Selected Publications</h3>
+                <h3>Selected Publications</h3>
                 <ul>
-                    <li><strong>Bayesian Video Summarization with Mamba Blocks</strong>, ECCV 2025 — <a href="#">PDF</a> | <a href="#">Code</a></li>
-                    <li><strong>Contrastive GAN-based News Summarization</strong>, CVPR 2024 — <a href="#">PDF</a> | <a href="#">Demo</a></li>
+                  <li>
+                    <a href="https://doi.org/10.1016/j.compbiomed.2024.108822" target="_blank">
+                      <strong>Optimized Efficient Attention‑Based Network for Facial Expressions Analysis in Neurological Health Care</strong>
+                    </a><br>
+                    M. Munsif, M. Sajjad, M. Ullah, <strong>A. N. Tarekegn</strong>, F. A. Cheikh, P. Tsakanikas (2024), 
+                    <em>Computers in Biology and Medicine</em>
+                  </li>
+                
+                  <li>
+                    <a href="https://doi.org/10.1016/j.patcog.2021.107965" target="_blank">
+                      <strong>A Review of Methods for Imbalanced Multi‑Label Classification</strong>
+                    </a><br>
+                    <strong>A. N. Tarekegn</strong>, M. Giacobini, K. Michalak (2021), 
+                    <em>Pattern Recognition</em>
+                  </li>
+                
+                  <li>
+                    <a href="https://doi.org/10.2196/16678" target="_blank">
+                      <strong>Predictive Modeling for Frailty Conditions in Elderly People: Machine Learning Approaches</strong>
+                    </a><br>
+                    <strong>A. N. Tarekegn</strong>, F. Ricceri, G. Costa, E. Ferracin, M. Giacobini (2020), 
+                    <em>JMIR Medical Informatics</em>, 8(6):e16678
+                  </li>
+                
+                  <li>
+                    <a href="https://doi.org/10.1109/JSEN.2023.3319353" target="_blank">
+                      <strong>Efficient Human Gait Activity Recognition Based on Sensor Fusion and Intelligent Stacking Framework</strong>
+                    </a><br>
+                    <strong>A. N. Tarekegn</strong>, M. Sajjad, F. A. Cheikh, M. Ullah, K. Muhammad (2023), 
+                    <em>IEEE Sensors Journal</em>, 23(22), 28355–28369
+                  </li>
+                
+                  <li>
+                    <a href="https://doi.org/10.1109/EUVIP58404.2023.10323047" target="_blank">
+                      <strong>Underwater Object Detection Using Image Enhancement and Deep Learning Models</strong>
+                    </a><br>
+                    <strong>A. N. Tarekegn</strong>, F. A. Cheikh, M. Ullah, E. T. Sollesnes (2023), 
+                    <em>Proceedings of the 11th European Workshop on Visual Information Processing (EUVIP)</em>
+                  </li>
+                
+                  <li>
+                    <a href="https://doi.org/10.1109/IPTA58262.2023.10336270" target="_blank">
+                      <strong>Self‑Supervised Animal Detection in Indoor Environment</strong>
+                    </a><br>
+                    Y. Taifour, H. Afridi, <strong>A. N. Tarekegn</strong>, M. Ullah (2023), 
+                    <em>12th International Conference on Image Processing Theory, Tools and Applications (IPTA)</em>
+                  </li>
+                
+                  <li>
+                    <a href="https://doi.org/10.5220/0013309100003905" target="_blank">
+                      <strong>A New Cluster Validation Index Based on Stability Analysis</strong>
+                    </a><br>
+                    <strong>A. N. Tarekegn</strong>, B. Tessem, F. Rabbi (2025), 
+                    <em>Proceedings of the 14th International Conference on Pattern Recognition Applications and Methods (ICPRAM)</em>, Porto, Portugal, pp. 377–384
+                  </li>
                 </ul>
-                <hr>
-                <h3>🚀 Projects</h3>
-                <ul>
-                    <li><strong>OpenSummary</strong> — <a href="https://github.com/adanent/opensummary">GitHub</a></li>
-                    <li><strong>CLIP-Vid</strong> — video-text retrieval model</li>
-                    <li><strong>NewsGraph</strong> — multilingual event linking</li>
-                </ul>
+
                 <hr>
                 <h3>🎓 Teaching & Mentorship</h3>
                 <ul>
