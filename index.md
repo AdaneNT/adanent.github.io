@@ -45,7 +45,7 @@
                
                                
                 <hr>
-                <h3> International Projects I Worked On</h3>
+                <h3> International Projects Involved In </h3>
                 <ul>
                     <li>
                         <a href="https://mediafutures.no/" target="_blank"><strong>MediaFutures</strong></a> 
