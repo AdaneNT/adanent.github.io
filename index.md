@@ -61,13 +61,7 @@
                <hr>
                 <h3>Selected Publications</h3>
                 <ul>
-                  <li>
-                    <strong>Optimized Efficient Attention‑Based Network for Facial Expressions Analysis in Neurological Health Care</strong><br>
-                    M. Munsif, M. Sajjad, M. Ullah, <strong>A. N. Tarekegn</strong>, F. A. Cheikh, P. Tsakanikas (2024), 
-                    <strong><em>Comput. Biol. Med.</em></strong><br>
-                    <a href="https://doi.org/10.1016/j.compbiomed.2024.108822" target="_blank">[Paper]</a>
-                  </li>
-                
+                     
                   <li>
                     <strong>A Review of Methods for Imbalanced Multi‑Label Classification</strong><br>
                     <strong>A. N. Tarekegn</strong>, M. Giacobini, K. Michalak (2021), 
@@ -82,7 +76,14 @@
                     <a href="https://doi.org/10.2196/16678" target="_blank">[Paper]</a> | 
                     <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7303829/" target="_blank">[PMC]</a>
                   </li>
-                
+                  
+                   <li>
+                    <strong>Optimized Efficient Attention‑Based Network for Facial Expressions Analysis in Neurological Health Care</strong><br>
+                    M. Munsif, M. Sajjad, M. Ullah, <strong>A. N. Tarekegn</strong>, F. A. Cheikh, P. Tsakanikas (2024), 
+                    <strong><em>Comput. Biol. Med.</em></strong><br>
+                    <a href="https://doi.org/10.1016/j.compbiomed.2024.108822" target="_blank">[Paper]</a>
+                  </li>
+                  
                   <li>
                     <strong>Predicting Multiple Outcomes Associated with Frailty Based on Imbalanced Multi‑Label Classification</strong><br>
                     <strong>A. N. Tarekegn</strong>, K. Michalak, G. Costa, F. Ricceri, M. Giacobini (2024), 
