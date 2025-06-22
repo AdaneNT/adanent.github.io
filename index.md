@@ -2,11 +2,11 @@
 <head>
   <title>Adane N. Tarekegn</title> 
   <style>
-    /* Only hide the GitHub theme's auto header */
-    header h1 {
-      display: none;
+    header.site-header h1, .site-title {
+      display: none !important;
     }
   </style>
+
 </head>
 
 <body>
