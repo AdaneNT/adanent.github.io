@@ -45,7 +45,7 @@
                
                                
                 <hr>
-                <h3>🌍 International Projects</h3>
+                <h3>International Projects</h3>
                 <ul>
                     <li>
                         <a href="https://mediafutures.no/" target="_blank"><strong>MediaFutures</strong></a> – Multimodal AI for Content Analysis and Generation (WP3)
