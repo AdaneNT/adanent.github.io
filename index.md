@@ -45,17 +45,16 @@
                
                                
                 <hr>
-                <h3>🌍 International Projects and Collaborations</h3>
+                <h3>Projects Projects I Worked On</h3>
                 <ul>
                     <li>
-                        <a href="https://mediafutures.no/" target="_blank"><strong>MediaFutures</strong></a> – Research center for responsible media technology and innovation.
+                        <a href="https://mediafutures.no/" target="_blank"><strong>MediaFutures</strong></a> 
                     </li>
                     <li>
-                        <a href="https://alamedaproject.eu/" target="_blank"><strong>Alameda Project</strong></a> – AI-driven support system for personalized health monitoring.
+                        <a href="https://alamedaproject.eu/" target="_blank"><strong>Alameda Project</strong></a> 
                     </li>
                     <li>
-                        <a href="https://agile.ro/adriatic/" target="_blank"><strong>ADRIATIC Project</strong></a> – Advanced data-driven research for intelligent content.
-                    </li>
+                        <a href="https://agile.ro/adriatic/" target="_blank"><strong>ADRIATIC Project</strong></a>
                 </ul>
 
                 <hr>
