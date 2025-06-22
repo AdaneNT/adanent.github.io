@@ -3,8 +3,6 @@
 <title>Adane N. Tarekegn</title> 
 </head>
 <body>
-<h2 style="color: black;">Adane Nega Tarekegn</h2>
-
     <table>
         <tr>
         <td width="200px" valign="top" style="text-align: center; font-family: Arial, sans-serif;">
