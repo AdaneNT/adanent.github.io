@@ -62,15 +62,14 @@
                 <h3>Selected Publications</h3>
                 <ul>
                   <li>
-                    <strong>A New Cluster Validation Index Based on Stability Analysis</strong><br>
-                    <strong>A. N. Tarekegn</strong>, B. Tessem, F. Rabbi (2025), 
-                    <strong><em>ICPRAM</em></strong> – Int. Conf. on Pattern Recognition Applications and Methods, Porto, Portugal, pp. 377–384<br>
+                    <strong>A. N. Tarekegn</strong>, B. Tessem, F. Rabbi (2025) <strong>A New Cluster Validation Index Based on Stability Analysis</strong><br>,
+                   <strong><em>ICPRAM</em></strong> – Int. Conf. on Pattern Recognition Applications and Methods, Porto, Portugal, pp. 377–384<br>
                     <a href="https://doi.org/10.5220/0013309100003905" target="_blank">[Paper]</a> <a href="https://github.com/AdaneNT/CSAI" target="_blank">[Code]</a>
                   </li>
                  
                   <li>
-                    <strong>Efficient Human Gait Activity Recognition Based on Sensor Fusion and Intelligent Stacking Framework</strong><br>
-                    <strong>A. N. Tarekegn</strong>, M. Sajjad, F. Alaya Cheikh, M. Ullah, K. Muhammad (2023), 
+                   <strong>A. N. Tarekegn</strong>, M. Sajjad, F. Alaya Cheikh, M. Ullah, K. Muhammad (2023) <strong>Efficient Human Gait Activity Recognition Based on Sensor Fusion and Intelligent Stacking Framework</strong><br>,
+                    
                     <strong><em>IEEE Sensors Journal</em></strong>, 23(22), 28355–28369<br>
                     <a href="https://doi.org/10.1109/JSEN.2023.3319353" target="_blank">[Paper]</a> <a href="https://github.com/AdaneNT/Ensemble-Deep-Learning-" target="_blank">[Code]</a>
                   </li>
