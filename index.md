@@ -1,7 +1,13 @@
 <html>
 <head>
-<title>Adane N. Tarekegn</title>
+  <title>Adane N. Tarekegn</title> 
+  <style>
+    h1, header h1 {
+      display: none;
+    }
+  </style>
 </head>
+
 <head>
 <title>Adane N. Tarekegn</title> 
 </head>
