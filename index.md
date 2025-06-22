@@ -1,13 +1,9 @@
 <html>
-<head>
-  <title>Adane N. Tarekegn</title>
-  <style>
-    /* Hide GitHub’s default site title */
-    .site-title {
-      display: none;
-    }
-  </style>
-</head>
+<style>
+  header h1 {
+    display: none;
+  }
+</style>
 
 <body>
     <table>
