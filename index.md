@@ -63,7 +63,7 @@
                 <ul>
                   <li>
                     <strong>A. N. Tarekegn</strong>, B. Tessem, F. Rabbi (2025), <strong>A New Cluster Validation Index Based on Stability Analysis</strong><br>
-                    <strong><em>ICPRAM</em></strong> – Int. Conf. on Pattern Recognition Applications and Methods, Porto, Portugal, pp. 377–384<br>
+                    <strong><em>ICPRAM</em></strong> – Int. Conf. on Pattern Recognition Applications and Methods,Portugal, pp. 377–384<br>
                     <a href="https://doi.org/10.5220/0013309100003905" target="_blank">[Paper]</a> <a href="https://github.com/AdaneNT/CSAI" target="_blank">[Code]</a>
                   </li>
                 
