@@ -31,10 +31,12 @@
                 </p>     <a href="https://mediafutures.no/">SFI MediaFutures</a>
             </td>
             <td valign="top">
-     
-            <p>I am a postdoctoral researcher at the Department of Information Science and Media Studies, University of Bergen, Norway. Before, I was a researcher in machine learning at the Department of computer science, Norwegian University of Science and Technology (NTNU), Norway. My current research focuses on video analysis, multi-modal machine learning, deep generative models for content production and analysis at SFI MediaFutures research center. </p>        
-                                       
-                <p>I obtained my Ph.D. in <a href="https://dottorato-mds.campusnet.unito.it/do/home.pl">Modeling and Data Science</a> from the University of Torino, Italy. 
+                
+     <p style="text-align: justify;">
+    I am a postdoctoral researcher at the Department of Information Science and Media Studies, University of Bergen, Norway. Before, I was a researcher in machine learning at the Department of computer science, Norwegian University of Science and Technology (NTNU), Norway. My current research focuses on video analysis, multi-modal machine learning, deep generative models for content production and analysis at SFI MediaFutures research center. </p>    
+
+    <p style="text-align: justify;">                                       
+    I obtained my Ph.D. in <a href="https://dottorato-mds.campusnet.unito.it/do/home.pl">Modeling and Data Science</a> from the University of Torino, Italy. 
 During that time, I spent a period as a visiting researcher at Wroclaw University of Economics and Business, Poland, where I collaborated on machine learning research project</p>
                
                 
