@@ -6,7 +6,7 @@
   <title>Adane N. Tarekegn</title>
 
   <!-- SEO Meta Tags -->
-  <meta name="description" content="Official personal page of Adane N. Tarekegn – postdoctoral researcher at University of Bergen.">
+  <meta name="description" content="Official personal page of Adane Nega Tarekegn – postdoctoral researcher at University of Bergen.">
   <meta name="keywords" content="Adane Tarekegn, AI, Data Science, Machine Learning, Multimodal AI, Deep Learning, Computer Vision, Research, University of Bergen">
   <meta name="author" content="Adane N. Tarekegn">
 
