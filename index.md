@@ -20,7 +20,7 @@
                 <li style="margin-bottom: 10px;">
                     <a href="https://scholar.google.com/citations?user=HE0_5twAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: black;">
                         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" alt="Google Scholar" style="height: 18px; vertical-align: middle; margin-right: 6px;">
-                        Google Scholar
+                        Scholar
                     </a>
                 </li>
                 <li style="margin-bottom: 10px;">
