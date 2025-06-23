@@ -1,8 +1,10 @@
 <html>
 <head>
+  
+  <meta name="google-site-verification" content="aN03zL9U9lfaQYAEKNVTq8yg0Ap58VOpLPriBIYfzcw" />
+  
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
   <title>Adane N. Tarekegn</title>
 
   <!-- SEO Meta Tags -->
@@ -17,13 +19,6 @@
   <meta property="og:url" content="https://adanent.github.io/">
   <meta property="og:type" content="website">
 
-  <!-- Twitter Card (optional, but helpful) -->
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Adane N. Tarekegn">
-  <meta name="twitter:description" content="Postdoctoral researcher in multimodal AI, deep learning, and content analysis.">
-
-  <!-- Favicon (optional) -->
-  <link rel="icon" href="images/ad.jpg" type="image/jpeg">
 </head>
 
 <body>
