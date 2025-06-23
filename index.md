@@ -51,7 +51,8 @@
 
 
     <td valign="top">
-    <p Hi, welcome to my page! </p> 
+ 
+<p>Hi, welcome to my page! I’m Adane.</p>
                 
 <p style="text-align: justify;">
     I am a postdoctoral researcher at the Department of Information Science and Media Studies, University of Bergen, Norway. My current research focuses on video analysis, multimodal AI, and deep generative models for content production and analysis at the SFI MediaFutures research center.
