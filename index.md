@@ -51,10 +51,13 @@
 
 
     <td valign="top">
- 
+    
+ <p>Hi, welcome to my page! I’m Adane.</p>
+
 <p style="text-align: justify;">
-I am a postdoctoral researcher at the Department of Information Science and Media Studies, University of Bergen, Norway. My current research focuses on machine learning, computer vision, and  multimodal AI, with a particular focus on deep generative models for content generation and analysis at the SFI MediaFutures research center.
-</p> 
+I am a postdoctoral researcher at the Department of Information Science and Media Studies, University of Bergen, Norway. My current research explores machine learning, computer vision, and multimodal AI, with a particular focus on deep generative models for content generation and analysis at the SFI MediaFutures research center.
+</p>
+
 
 <p style="text-align: justify;">                                       
     I obtained my Ph.D. in <a href="https://dottorato-mds.campusnet.unito.it/do/home.pl">Modeling and Data Science</a> from the University of Torino, Italy. 
