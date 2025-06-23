@@ -55,7 +55,7 @@
  <p>Hi, welcome to my page! I’m Adane.</p>
 
 <p style="text-align: justify;">
-My primary research interest lies in the areas of machine learning, computer vision, and multimodal AI. Currently, I am a postdoctoral researcher at the Department of Information Science and Media Studies, University of Bergen, Norway. My work focuses on deep generative models for content generation and analysis at the SFI MediaFutures research center.
+My primary research interest lies in the areas of machine learning, computer vision, and multimodal AI. Currently, I am a postdoctoral researcher at the Department of Information Science and Media Studies, University of Bergen, Norway. My work focuses on deep learning and generative models for content generation and analysis at the SFI MediaFutures research center.
 </p>
 
 
