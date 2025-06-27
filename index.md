@@ -15,7 +15,7 @@
   <!-- Open Graph (for social media sharing) -->
   <meta property="og:title" content="Adane N. Tarekegn">
   <meta property="og:description" content="Postdoctoral researcher in multimodal AI, deep learning, and content analysis.">
-  <meta property="og:image" content="https://adanent.github.io/images/ad.jpg"> <!-- optional, update to full image URL -->
+  <meta property="og:image" content="https://adanent.github.io/images/ad2.jpg"> <!-- optional, update to full image URL -->
   <meta property="og:url" content="https://adanent.github.io/">
   <meta property="og:type" content="website">
 
