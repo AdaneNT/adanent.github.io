@@ -86,7 +86,7 @@ My primary research interest lies in the areas of machine learning, computer vis
                   <li>
                     <strong>A. N. Tarekegn</strong>, B. Tessem, F. Rabbi (2025), <strong>A New Cluster Validation Index Based on Stability Analysis</strong><br>
                     <strong><em>ICPRAM</em></strong> – Int. Conf. on Pattern Recognition Applications and Methods,Portugal, pp. 377–384<br>
-                    <a href="https://doi.org/10.5220/0013309100003905" target="_blank">[Paper]</a> <a href="https://github.com/AdaneNT/CSAI" target="_blank">[Code]</a>
+                    <a href="[https://doi.org/10.5220/0013309100003905](https://github.com/AdaneNT/cluster-validity-csai/tree/main)" target="_blank">[Paper]</a> <a href="https://github.com/AdaneNT/CSAI" target="_blank">[Code]</a>
                   </li>
                 
                   <li>
