@@ -89,7 +89,6 @@ My primary research interest lies in the areas of machine learning, computer vis
                 <strong>A New Cluster Validation Index Based on Stability Analysis</strong><br>
                 In <em>Proceedings of the 14th International Conference on Pattern Recognition Applications and Methods – ICPRAM</em>,  
                 ISBN 978-989-758-730-6; ISSN 2184-4313, SciTePress, pages 377–384.<br>
-                DOI: <a href="https://doi.org/10.5220/0013309100003905" target="_blank">10.5220/0013309100003905</a><br>
                 <a href="https://doi.org/10.5220/0013309100003905" target="_blank">[Paper]</a>
                 <a href="https://github.com/AdaneNT/cluster-validity-csai" target="_blank">[Code]</a>
                 <a href="https://pypi.org/project/cluster-validity-csai/" target="_blank">[PyPI]</a>
