@@ -103,10 +103,12 @@ My primary research interest lies in the areas of machine learning, computer vis
                   </li>
            
                   <li>
-                    <strong>A. N. Tarekegn</strong>, M. Giacobini, K. Michalak (2021), <strong>A Review of Methods for Imbalanced Multi‑Label Classification</strong><br>
-                    <strong><em>Pattern Recognition</em></strong><br>
+                    <strong>Adane Nega Tarekegn</strong>, Mario Giacobini, Krzysztof Michalak (2021).<br>
+                    <strong>A Review of Methods for Imbalanced Multi‑Label Classification</strong><br>
+                    <em>Pattern Recognition</em>, Volume 118, 2021, Article 107965, ISSN 0031-3203.<br>
                     <a href="https://doi.org/10.1016/j.patcog.2021.107965" target="_blank">[Paper]</a>
                   </li>
+
                 
                   <li>
                     M. Munsif, M. Sajjad, M. Ullah, <strong>A. N. Tarekegn</strong>, F. A. Cheikh, P. Tsakanikas (2024), <strong>Optimized Efficient Attention‑Based Network for Facial Expressions Analysis in Neurological Health Care</strong><br>
