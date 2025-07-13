@@ -11,6 +11,8 @@
   <meta name="description" content="Official personal page of Adane Nega Tarekegn – postdoctoral researcher at University of Bergen.">
   <meta name="keywords" content="Adane Tarekegn, AI, Data Science, Machine Learning, Multimodal AI, Deep Learning, Computer Vision, Research, University of Bergen">
   <meta name="author" content="Adane N. Tarekegn">
+  <meta name="keywords" content="CSAI, Cluster Validation, Clustering Stability, Python Package, Unsupervised Learning, Adane Tarekegn, AI Tools">
+
 
   <!-- Open Graph (for social media sharing) -->
   <meta property="og:title" content="Adane N. Tarekegn">
