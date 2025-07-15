@@ -23,6 +23,7 @@
 </head>
 
 <body>
+  <h1 style="display: none;">Adane Nega Tarekegn</h1>
     <table>
         <tr>
         <td width="200px" valign="top" style="text-align: center; font-family: Arial, sans-serif;">
