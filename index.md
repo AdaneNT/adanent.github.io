@@ -8,8 +8,8 @@
 
   <!-- SEO Meta Tags -->
   <meta name="description" content="Official personal page of Adane Nega Tarekegn – postdoctoral researcher at University of Bergen.">
-  <meta name="keywords" content="Adane Tarekegn, AI, Data Science, Machine Learning, Multimodal AI, Deep Learning, Computer Vision, Research, University of Bergen">
-  <meta name="author" content="Adane N. Tarekegn">
+  <meta name="keywords" content="Adane Nega Tarekegn, AdaneNT, GitHub,cluster-validity-csai, AI, Data Science, Machine Learning, Multimodal AI, Deep Learning, Computer Vision, Research">
+  <meta name="author" content="Adane Nega Tarekegn">
   <meta name="keywords" content="CSAI, Cluster Validation, Clustering Stability, Python Package, Unsupervised Learning, Adane Tarekegn, AI Tools">
 
 
