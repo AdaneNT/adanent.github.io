@@ -4,7 +4,7 @@
  
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Adane N. Tarekegn</title>
+  <title>Adane Nega Tarekegn</title>
 
   <!-- SEO Meta Tags -->
   <meta name="description" content="Official personal page of Adane Nega Tarekegn – postdoctoral researcher at University of Bergen.">
