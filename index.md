@@ -1,8 +1,7 @@
 <html>
 <head>
-  
-  <meta name="google-site-verification" content="aN03zL9U9lfaQYAEKNVTq8yg0Ap58VOpLPriBIYfzcw" />
-  
+  <meta name="google-site-verification" content="XtbHpmR29tGzmnsmQgByuF2QtUnDhrNIdqVMmD3adzQ" />
+ 
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Adane N. Tarekegn</title>
