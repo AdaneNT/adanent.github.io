@@ -1,10 +1,10 @@
 <html>
 <head>
-   <!-- <meta name="google-site-verification" content="XtbHpmR29tGzmnsmQgByuF2QtUnDhrNIdqVMmD3adzQ" />
- 
+  <!-- ✅ Google Search Console Verification Tag -->
+  <meta name="google-site-verification" content="f-PkKkDuFin68InkhbmcUR8b_a-ZD4sKIoUe4CqY7IU" />
+
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="google-site-verification" content="f-PkKkDuFin68InkhbmcUR8b_a-ZD4sKIoUe4CqY7IU" />
   <title>Adane Nega Tarekegn</title>
 
   <!-- SEO Meta Tags -->
