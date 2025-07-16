@@ -35,7 +35,11 @@
             <div style="color: #555; font-size: 14px; margin-bottom: 20px;"> Bergen, Norway</div>
         
             <ul style="list-style: none; padding: 0; margin: 0; text-align: left; display: inline-block;">
-                  
+
+                <li style="margin-bottom: 10px; display: flex; align-items: center;">
+                <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" style="height: 18px; width: 18px; margin-right: 8px;">
+                <a href="https://github.com/AdaneNT" target="_blank" style="text-decoration: none; color: black;">GitHub</a>
+                </li>
                 <li style="margin-bottom: 10px; display: flex; align-items: center;">
                     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" style="height: 18px; width: 18px; margin-right: 8px; filter: invert(18%) sepia(97%) saturate(747%) hue-rotate(182deg) brightness(95%) contrast(85%);">
                     <a href="https://www.linkedin.com/in/adanet/" target="_blank" style="text-decoration: none; color: black;">LinkedIn</a>
@@ -44,18 +48,11 @@
                     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" alt="Google Scholar" style="height: 18px; width: 18px; margin-right: 8px;">
                     <a href="https://scholar.google.com/citations?user=HE0_5twAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: black;">Google Scholar</a>
                 </li>
-                <li style="margin-bottom: 10px; display: flex; align-items: center;">
-                    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" style="height: 18px; width: 18px; margin-right: 8px;">
-                    <a href="https://github.com/AdaneNT" target="_blank" style="text-decoration: none; color: black;">GitHub</a>
-                </li>
                 <li style="display: flex; align-items: center;">
                     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" style="height: 18px; width: 18px; margin-right: 8px;">
                     <a href="mailto:nega2002@gmail.com" style="text-decoration: none; color: black;">Email</a>
                 </li>
-             <!--  <li style="display: flex; align-items: center;">
-              <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" style="height: 18px; width: 18px; margin-right: 8px;">
-              <!-- <a href="https://orcid.org/0000-0002-4005-1238" target="_blank" style="text-decoration: none; color: black;">ORCID</a>
-          <!-- </li>
+
             </ul>
         </td>
 
