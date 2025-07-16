@@ -52,10 +52,10 @@
                     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" style="height: 18px; width: 18px; margin-right: 8px;">
                     <a href="mailto:nega2002@gmail.com" style="text-decoration: none; color: black;">Email</a>
                 </li>
-            <li style="display: flex; align-items: center;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" style="height: 18px; width: 18px; margin-right: 8px;">
-            <a href="https://orcid.org/0000-0002-4005-1238" target="_blank" style="text-decoration: none; color: black;">ORCID</a>
-        </li>
+             <!--  <li style="display: flex; align-items: center;">
+              <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" style="height: 18px; width: 18px; margin-right: 8px;">
+              <!-- <a href="https://orcid.org/0000-0002-4005-1238" target="_blank" style="text-decoration: none; color: black;">ORCID</a>
+          <!-- </li>
             </ul>
         </td>
 
