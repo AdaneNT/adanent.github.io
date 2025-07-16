@@ -23,7 +23,6 @@
 </head>
 
 <body>
-  <a href="https://github.com/AdaneNT" style="display:block; margin-bottom:10px;">Visit my GitHub Profile</a>
   <h1 style="position: absolute; left: -9999px; top: auto; width: 1px; height: 1px; overflow: hidden;">
   Adane Nega Tarekegn
 </h1>
