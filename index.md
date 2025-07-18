@@ -77,13 +77,13 @@ My primary research interest lies in the areas of machine learning, computer vis
                 <h3>International Projects</h3>
                 <ul>
                     <li>
-                        <a href="https://mediafutures.no/" target="_blank"><strong>MediaFutures</strong></a> – Multimodal AI for Content Analysis and Generation (WP3)
+                        <a href="https://mediafutures.no/" target="_blank"><strong>MediaFutures</strong></a> – Multimodal AI for news Content Analysis and Generation (WP3)
                     </li>
                     <li>
-                        <a href="https://alamedaproject.eu/" target="_blank"><strong>Alameda Project</strong></a> – Data Aggregation, AI Analytics, and Deep Learning (WP4)
+                        <a href="https://alamedaproject.eu/" target="_blank"><strong>Alameda Project</strong></a> – Data Aggregation, AI Analytics, and Deep Learning for neurological disorders (WP4)
                     </li>
                     <li>
-                        <a href="https://agile.ro/adriatic/" target="_blank"><strong>ADRIATIC Project</strong></a> – Image Preprocessing and Computer Vision (WP4)
+                        <a href="https://agile.ro/adriatic/" target="_blank"><strong>ADRIATIC Project</strong></a> – Image Preprocessing and Computer Vision for Underwater Environment Recognition and Sensing (WP4)
                     </li>
                 </ul>
 
