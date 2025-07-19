@@ -59,7 +59,6 @@
 
     <td valign="top">
     
- <p>Welcome to my page! I’m Adane.</p>
  <p>Welcome to my page! I’m Adane — an AI researcher working at the intersection of machine learning, computer vision, and multimodal AI.</p>
 
 <p style="text-align: justify;">
