@@ -108,7 +108,7 @@ My work focuses on building intelligent systems that can address complex real-wo
                   </li>
            
                   <li>
-                    <strong>Adane Nega Tarekegn</strong>, Mario Giacobini, Krzysztof Michalak (2021).<br>
+                    <strong>A. N. Tarekegn</strong>, Mario Giacobini, Krzysztof Michalak (2021).<br>
                     <strong>A Review of Methods for Imbalanced Multi‑Label Classification</strong><br>
                     <em>Pattern Recognition</em>, Volume 118, 2021, Article 107965, ISSN 0031-3203.<br>
                     <a href="https://doi.org/10.1016/j.patcog.2021.107965" target="_blank">[Paper]</a>
