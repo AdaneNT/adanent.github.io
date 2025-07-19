@@ -63,7 +63,7 @@
  <p>Welcome to my page! I’m Adane — an AI researcher working at the intersection of machine learning, computer vision, and multimodal AI.</p>
 
 <p style="text-align: justify;">
-My work focuses on building intelligent systems that can address complex real-world challenges. Currently, I am a postdoctoral researcher at <a href="https://mediafutures.no/">SFI MediaFutures </a> – University of Bergen, Norway, where I develop deep learning and generative models for media content generation and analysis. My recent projects involve LLMs, vision models (CLIP, Transformers, GANs), and collaborations with industry partners to create scalable AI solutions. 
+My work focuses on building intelligent systems that can address complex real-world challenges. Currently, I am a postdoctoral researcher at <a href="https://mediafutures.no/">SFI MediaFutures </a> – University of Bergen, Norway, where I develop deep learning and generative models for media content generation and analysis. My recent projects involve LLMs, vision models (Transformers, GANs), and collaborations with industry partners to create scalable AI solutions. 
 </p>
 
 My current work at SFI MediaFutures involves using LLMs and vision models (e.g., CLIP, Transformers, GANs) to build AI-driven tools in collaboration with industry partners such as TV2 AS and Amedia.
