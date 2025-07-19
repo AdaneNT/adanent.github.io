@@ -65,7 +65,6 @@
 My work focuses on building intelligent systems that can address complex real-world challenges. Currently, I am a postdoctoral researcher at <a href="https://mediafutures.no/">SFI MediaFutures </a> – University of Bergen, Norway, where I develop deep learning and generative models for media content generation and analysis. My recent projects involve LLMs, vision models (Transformers, GANs), and collaborations with industry partners to create scalable AI solutions. 
 </p>
 
-My current work at SFI MediaFutures involves using LLMs and vision models (e.g., CLIP, Transformers, GANs) to build AI-driven tools in collaboration with industry partners such as TV2 AS and Amedia.
 <p style="text-align: justify;">                                       
     I obtained my Ph.D. in <a href="https://dottorato-mds.campusnet.unito.it/do/home.pl">Modeling and Data Science</a> from the University of Torino, Italy. 
     During that time, I spent a period as a visiting researcher at the Wroclaw University of Economics and Business, Poland, where I collaborated on a machine learning research project.
