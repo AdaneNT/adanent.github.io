@@ -91,8 +91,7 @@ My work focuses on building intelligent systems that can address complex real-wo
                 <ul>
                
               <li>
-                <strong>A. N. Tarekegn</strong>, B. Tessem, F. Rabbi (2025).<br>
-                <strong>A New Cluster Validation Index Based on Stability Analysis</strong><br>
+                <strong>A. N. Tarekegn</strong>, B. Tessem, F. Rabbi (2025).<br> <strong>A New Cluster Validation Index Based on Stability Analysis</strong><br>
                 In <em>Proceedings of the 14th International Conference on Pattern Recognition Applications and Methods – ICPRAM</em>,  
                 ISBN 978-989-758-730-6; ISSN 2184-4313, SciTePress, pages 377–384.<br>
                 <a href="https://doi.org/10.5220/0013309100003905" target="_blank">[Paper]</a>
@@ -108,8 +107,7 @@ My work focuses on building intelligent systems that can address complex real-wo
                   </li>
            
                   <li>
-                    <strong>A. N. Tarekegn</strong>, Mario Giacobini, Krzysztof Michalak (2021).<br>
-                    <strong>A Review of Methods for Imbalanced Multi‑Label Classification</strong><br>
+                    <strong>A. N. Tarekegn</strong>, Mario Giacobini, Krzysztof Michalak (2021).<br> <strong>A Review of Methods for Imbalanced Multi‑Label Classification</strong><br>
                     <em>Pattern Recognition</em>, Volume 118, 2021, Article 107965, ISSN 0031-3203.<br>
                     <a href="https://doi.org/10.1016/j.patcog.2021.107965" target="_blank">[Paper]</a>
                   </li>
@@ -140,8 +138,7 @@ My work focuses on building intelligent systems that can address complex real-wo
                   </li>
                 
                   <li>
-                    Y. Taifour, H. Afridi, <strong>A. N. Tarekegn</strong>, M. Ullah (2023), <strong>Self‑Supervised Animal Detection in Indoor Environment</strong><br>
-                    <strong><em>IPTA</em></strong> – Int. Conf. on Image Processing Theory, Tools and Applications<br>
+                    Y. Taifour, H. Afridi, <strong>A. N. Tarekegn</strong>, M. Ullah (2023), <strong>Self‑Supervised Animal Detection in Indoor Environment</strong><br> <strong><em>IPTA</em></strong> – Int. Conf. on Image Processing Theory, Tools and Applications<br>
                     <a href="https://doi.org/10.1109/IPTA58262.2023.10336270" target="_blank">[Paper]</a>
                   </li>
                 
