@@ -58,11 +58,13 @@
 
 
     <td valign="top">
+        
+    <h1>Welcome!</h1>
     
- <p>Welcome! I’m Adane — an AI researcher working at the intersection of machine learning, computer vision, and multimodal AI.</p>
+ <p> I’m Adane — an AI researcher working at the intersection of machine learning, computer vision, and multimodal AI.</p>
 
 <p style="text-align: justify;">
-My work focuses on building intelligent systems that can solve complex real-world tasks Currently, I am a postdoctoral researcher at <a href="https://mediafutures.no/">SFI MediaFutures </a> (University of Bergen, Norway), focusing on multimodal learning, LLMs, and deep generative models to build robust AI solutions for real-world industry challenges. 
+My work focuses on building intelligent systems that can solve complex real-world tasks. Currently, I am a postdoctoral researcher at <a href="https://mediafutures.no/">SFI MediaFutures </a> (University of Bergen, Norway), focusing on multimodal learning, LLMs, and deep generative models to build robust AI solutions for real-world industry challenges. 
 </p>
 
 <p style="text-align: justify;">                                       
