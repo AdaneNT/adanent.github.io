@@ -27,8 +27,8 @@
 </head>
 
 <body>
-  <header style="background-color: white; padding: 10px 0 5px; text-align: center; border-bottom: 1px solid #eaeaea; margin-bottom: 20px;">
-  <h1 style="font-size: 1.8em; margin: 0; color: #333;">Adane Nega Tarekegn</h1>
+<header style="background-color: white; padding: 15px 0; text-align: center; border-bottom: 1px solid #eaeaea; margin: 0;">
+  <h1 style="font-size: 1.8em; margin: 0; color: #333; font-weight: 600;">Adane Nega Tarekegn</h1>
 </header>
     <table>
         <tr>
