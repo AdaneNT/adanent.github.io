@@ -62,7 +62,7 @@
 
     <td valign="top">
     
- <p> <strong>Welcome!</strong> I’m Adane — an AI researcher working at the intersection of machine learning, computer vision, and multimodal AI, particularly in pattern recognition, generation, and reasoning.</p>
+ <p> <strong>Welcome!</strong> I’m Adane — an AI researcher working at the intersection of machine learning, computer vision, and multimodal AI, with applications in pattern recognition, content generation, and reasoning.</p>
 
 <p style="text-align: justify;">
 My work focuses on building intelligent systems that can solve complex real-world tasks. Currently, I am a postdoctoral researcher at <a href="https://mediafutures.no/">SFI MediaFutures </a> (University of Bergen, Norway), focusing on multimodal learning, LLMs, and deep generative models to build robust AI solutions for real-world industry challenges. 
