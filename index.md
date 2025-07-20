@@ -30,8 +30,6 @@
   <header style="background-color: white; padding: 10px 0 5px; text-align: center; border-bottom: 1px solid #eaeaea; margin-bottom: 20px;">
   <h1 style="font-size: 1.8em; margin: 0; color: #333;">Adane Nega Tarekegn</h1>
 </header>
-
-</header>
     <table>
         <tr>
         <td width="200px" valign="top" style="text-align: center; font-family: Arial, sans-serif;">
