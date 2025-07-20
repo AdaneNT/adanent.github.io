@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Adane Nega Tarekegn</title>
   
-  <link rel="stylesheet" href="assets/css/custom.css">
+  <link rel="stylesheet" href="assets/css/custom.css">  
 
 
   <!-- SEO Meta Tags -->
