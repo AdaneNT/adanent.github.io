@@ -24,10 +24,7 @@
 </head>
 
 <body>
-  <h1 style="position: absolute; left: -9999px; top: auto; width: 1px; height: 1px; overflow: hidden;">
-  <h1 style="font-family: 'Georgia', serif; font-size: 36px; color: #1a73e8; margin-top: 20px;">
-  Adane Nega Tarekegn
-</h1>
+
     <table>
         <tr>
         <td width="200px" valign="top" style="text-align: center; font-family: Arial, sans-serif;">
