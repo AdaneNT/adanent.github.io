@@ -1,16 +1,9 @@
-/* Hide the default GitHub Pages header */
-header.site-header,
-h1.site-title {
-  display: none;
-}
-
-/* Style your replacement header */
-h1.visible-header {
-  font-family: 'Georgia', serif;
-  font-size: 36px;
-  color: #1a73e8;
-  font-weight: bold;
-  text-align: center;
-  margin-top: 20px;
+/* Hide the GitHub Pages default banner/header */
+header,
+header h1,
+h1.site-title,
+.project-name,
+.page-header {
+  display: none !important;
 }
 
