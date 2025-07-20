@@ -29,7 +29,6 @@
 <body>
 <header style="background-color: #f8f9fa; padding: 20px 0; text-align: center; border-bottom: 1px solid #eaeaea; margin-bottom: 30px;">
   <h1 style="font-size: 2.5em; margin: 0; color: #333;">Adane Nega Tarekegn</h1>
-  <p style="margin: 5px 0 0; color: #666; font-size: 1.1em;">AI Researcher | Multimodal Learning | Computer Vision</p>
 </header>
     <table>
         <tr>
