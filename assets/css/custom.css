@@ -1,9 +1,9 @@
-/* Force-hide GitHub Pages default title header */
+/* Hide GitHub Pages auto-generated header */
 .markdown-body > h1 {
   display: none !important;
 }
 
-/* Custom header at top */
+/* Show custom visible header */
 .custom-header {
   font-size: 24px;
   font-weight: bold;
