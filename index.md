@@ -30,6 +30,8 @@
   <h1 style="position: absolute; left: -9999px; top: auto; width: 1px; height: 1px; overflow: hidden;">
   Adane Nega Tarekegn
 </h1>
+  <!-- Visible header with custom style -->
+  <h1 class="visible-header">Adane Nega Tarekegn</h1>
     <table>
         <tr>
         <td width="200px" valign="top" style="text-align: center; font-family: Arial, sans-serif;">
@@ -71,9 +73,7 @@ My work focuses on building intelligent systems that can solve complex real-worl
 <p style="text-align: justify;">                                       
     I obtained my Ph.D. in <a href="https://dottorato-mds.campusnet.unito.it/do/home.pl">Modeling and Data Science</a> from the University of Torino, Italy. 
     During that time, I spent a period as a visiting researcher at the Wroclaw University of Economics and Business, Poland, where I collaborated on a machine learning research project.
-</p>
-
-               
+</p>    
                                
                 <hr>
                 <h3>International Projects</h3>
