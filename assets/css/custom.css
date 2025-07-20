@@ -1,3 +1,10 @@
+/* Hide the default GitHub Pages header */
+header.site-header,
+h1.site-title {
+  display: none;
+}
+
+/* Style your replacement header */
 h1.visible-header {
   font-family: 'Georgia', serif;
   font-size: 36px;
@@ -6,3 +13,4 @@ h1.visible-header {
   text-align: center;
   margin-top: 20px;
 }
+
