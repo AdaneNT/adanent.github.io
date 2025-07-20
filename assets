@@ -1,6 +1,0 @@
-.site-title {
-  font-family: 'Georgia', serif;
-  font-size: 36px;
-  color: #1a73e8; /* Optional: Google blue */
-  font-weight: bold;
-}
