@@ -59,7 +59,6 @@
             </ul>
         </td>
 
-
     <td valign="top">
     
  <p> <strong>Welcome!</strong> I’m Adane — an AI researcher working at the intersection of machine learning, computer vision, and multimodal AI, with applications in pattern recognition, content generation, and reasoning.</p>
