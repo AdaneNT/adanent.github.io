@@ -73,7 +73,6 @@ My research focuses on building intelligent systems that can solve complex tasks
                                
                 <hr>
                 <h3>International Project Involvement</h3>
-                <p>Below are selected collaborative research projects I have contributed to, spanning applications in media, healthcare, and environmental monitoring.</p>
                 <ul>
                     <li>
                         <a href="https://mediafutures.no/" target="_blank"><strong>MediaFutures</strong></a> – Multimodal AI for news content analysis and generation (WP3)
