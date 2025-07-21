@@ -16,7 +16,6 @@
   <meta name="author" content="Adane Nega Tarekegn">
   <meta name="keywords" content="CSAI, Cluster Validation, Clustering Stability, Python Package, Unsupervised Learning, Adane Tarekegn, AI Tools">
 
-
   <!-- Open Graph (for social media sharing) -->
   <meta property="og:title" content="Adane N. Tarekegn">
   <meta property="og:description" content="Postdoctoral researcher in multimodal AI, deep learning, and content analysis.">
