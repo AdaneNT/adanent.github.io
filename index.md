@@ -72,7 +72,7 @@ My research focuses on building intelligent systems that can solve complex tasks
 </p>    
                                
                 <hr>
-                <h3> Collaborative Research Projects </h3>
+                <h3> International Collaborative Projects </h3>
                 <ul>
                     <li>
                         <a href="https://mediafutures.no/" target="_blank"><strong>MediaFutures</strong></a> – Multimodal AI for news content analysis and generation (WP3)
