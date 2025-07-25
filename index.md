@@ -145,15 +145,16 @@ My research focuses on building intelligent systems that can solve complex tasks
                                
                 <hr>
                 <h3 id="projects">International Projects</h3>
+                <p> Below are three selected international research projects I have led or contributed to, focused on AI, machine learning, and real-world applications across healthcare, media, and environmental sensing.</p>
                 <ul>
                     <li>
-                        <a href="https://mediafutures.no/" target="_blank"><strong>MediaFutures</strong></a> – Multimodal AI for news content analysis and generation (WP3)
+                        <a href="https://mediafutures.no/" target="_blank"><strong>MediaFutures</strong></a> – Multimodal AI for news content analysis and generation (WP3):Contributor to Work                        Package 3 (WP3)<br>
                     </li>
                     <li>
-                        <a href="https://alamedaproject.eu/" target="_blank"><strong>Alameda Project</strong></a> – Data aggregation, AI analytics, deep learning for neurological disorders (WP4)
+                        <a href="https://alamedaproject.eu/" target="_blank"><strong>Alameda Project</strong></a> – Data aggregation, AI analytics, deep learning for neurological disorders (WP4),Co-lead and contributor to Task T4.4 (WP4)<br>
                     </li>
                     <li>
-                        <a href="https://agile.ro/adriatic/" target="_blank"><strong>ADRIATIC Project</strong></a> – Image preprocessing and computer vision for underwater environment recognition and sensing (WP4)
+                        <a href="https://agile.ro/adriatic/" target="_blank"><strong>ADRIATIC Project</strong></a> – Image preprocessing and computer vision for underwater environment recognition and sensing (WP4),Lead and contributor to Work Package 4 (WP4)<br>
                     </li>
                 </ul>
 
