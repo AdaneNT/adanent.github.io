@@ -31,7 +31,9 @@
 </header>
     <table>
         <tr>
-        <td width="200px" valign="top" style="text-align: center; font-family: Arial, sans-serif;">
+         <!-- <td width="200px" valign="top" style="text-align: center; font-family: Arial, sans-serif;"> -->
+        <td width="200px" valign="top" style="text-align: center; font-family: Arial, sans-serif; padding-right: 30px;">
+
             <img src="images/ad.jpg" width="140" style="border-radius: 50%; border: 4px solid #f0f0f0;" alt="Adane N. Tarekegn" />
             <div style="font-size: 18px; font-weight: bold; margin-top: 15px; margin-bottom: 5px;">Adane N. Tarekegn</div>
             <div style="color: #555; font-size: 14px; margin-bottom: 20px;"> Bergen, Norway</div>
@@ -60,7 +62,8 @@
 
     <!-- <td valign="top"> -->
 
-    <td valign="top" style="padding-left: 50px;">
+    <td valign="top" style="padding-left: 30px;">
+
 
     
   <h3> About me </h3>
