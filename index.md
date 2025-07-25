@@ -28,14 +28,13 @@
 <body>
 <header style="background-color: white; padding: 15px 0; text-align: center; border-bottom: 1px solid #eaeaea; margin: 0;">
   <h1 style="font-size: 1.2em; margin: 0; color: #333; font-weight: 600;">Adane Nega Tarekegn &nbsp;|&nbsp; አዳነ ነጋ ታረቀኝ </h1>
+    <nav>
+    <a href="#about" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold;">About</a>
+    <a href="#projects" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold;">Projects</a>
+    <a href="#publications" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold;">Publications</a>
+    <a href="#other" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold;">Other</a>
+  </nav>
 </header>
-  <nav style="text-align: center; margin: 20px 0; font-family: Arial, sans-serif;">
-  <a href="#about" style="margin: 0 15px; text-decoration: none; color: #333; font-weight: bold;">About Me</a>
-  <a href="#projects" style="margin: 0 15px; text-decoration: none; color: #333; font-weight: bold;">Projects</a>
-  <a href="#publications" style="margin: 0 15px; text-decoration: none; color: #333; font-weight: bold;">Publications</a>
-  <a href="#other" style="margin: 0 15px; text-decoration: none; color: #333; font-weight: bold;">Other</a>
-</nav>
-
     <table>
         <tr>
          <!-- <td width="200px" valign="top" style="text-align: center; font-family: Arial, sans-serif;"> -->
