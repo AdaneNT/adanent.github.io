@@ -32,7 +32,7 @@
     Adane Nega Tarekegn
   </div>
   <nav>
-    <a href="#other" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold;">About</a>
+    <a href="#other" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold;"></a>
     <a href="#about" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold;">Projects</a>
     <a href="#projects" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold;">Publications</a>
     <a href="#publications" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold;">Community Service</a>
