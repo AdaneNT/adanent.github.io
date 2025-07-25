@@ -259,6 +259,7 @@ My research focuses on building intelligent systems that can solve complex tasks
   <li><em>IEEE Sensors Journal</em></li>
   <li><em>Applied Soft Computing</em></li>
   <li><em>IEEE Transactions on Knowledge and Data Engineering</em></li>
+  <li><em>IEEE Transactions on Circuits and Systems for Video Technology</em></li>
 </ul>
 
 <h4>Thesis Examination</h4>
