@@ -103,7 +103,9 @@
         <td width="200px" valign="top" style="text-align: center; font-family: Arial, sans-serif; padding-right: 40px;">
 
             <img src="images/ad.jpg" width="140" style="border-radius: 50%; border: 4px solid #f0f0f0;" alt="Adane N. Tarekegn" />
-            <div style="font-size: 16px; font-weight: bold; margin-top: 15px; margin-bottom: 5px; white-space: nowrap;">
+          <div style="font-size: 16px; font-weight: bold; margin-top: 15px; margin-bottom: 5px; white-space: nowrap;"> Adane N. Tarekegn
+          </div>
+
             <div style="color: #555; font-size: 14px; margin-bottom: 20px;"> Bergen, Norway</div>
         
             <ul style="list-style: none; padding: 0; margin: 0; text-align: left; display: inline-block;">
