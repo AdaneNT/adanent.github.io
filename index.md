@@ -60,7 +60,7 @@
 
     <!-- <td valign="top"> -->
 
-    <td valign="top" style="padding-left: 30px;">
+    <td valign="top" style="padding-left: 50px;">
 
     
   <h3> About me </h3>
