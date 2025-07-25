@@ -26,7 +26,8 @@
 </head>
 
 <body>
-<header style="background-color: white; padding: 15px 40px; border-bottom: 1px solid #eaeaea; display: flex; justify-content: space-between; align-items: center; font-family: Arial, sans-serif;">
+<header style="background-color: white; padding: 15px 40px; border-bottom: 1px solid #eaeaea; display: flex; justify-content: flex-start; align-items: center; font-family: Arial, sans-serif;">
+
   <div style="font-size: 1.2em; color: #333; font-weight: 600;">
     Adane Nega Tarekegn
   </div>
