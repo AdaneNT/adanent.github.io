@@ -36,7 +36,7 @@
     <a href="#about" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold;">Projects</a>
     <a href="#projects" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold;">Publications</a>
     <a href="#publications" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold;">Community Service</a>
-     <a href="#publications" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold;">Teaching and Mentorship </a>
+     <a href="#publications" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold;">Teaching </a>
     
   </nav>
 </header>
