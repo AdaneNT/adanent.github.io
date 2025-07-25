@@ -28,7 +28,7 @@
 <body>
 <header style="background-color: white; padding: 15px 40px; border-bottom: 1px solid #eaeaea; display: flex; justify-content: space-between; align-items: center; font-family: Arial, sans-serif;">
   <div style="font-size: 1.2em; color: #333; font-weight: 600;">
-    Adane Nega Tarekegn &nbsp;|&nbsp; አዳነ ነጋ ታረቀኝ
+    Adane Nega Tarekegn
   </div>
   <nav>
     <a href="#about" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold;">About</a>
