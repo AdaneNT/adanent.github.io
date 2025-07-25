@@ -76,7 +76,7 @@
 
     <td valign="top" style="padding-left: 40px;">
 
- <p> I’m Adane, an AI researcher working at the intersection of machine learning, computer vision, and multimodal AI, with applications in pattern recognition, content generation, and reasoning.</p>
+ <p id="About">I’m Adane, an AI researcher working at the intersection of machine learning, computer vision, and multimodal AI, with applications in pattern recognition, content generation, and reasoning.</p>
 
 <p style="text-align: justify;">
 My research focuses on building intelligent systems that can solve complex tasks. Currently, I am a postdoctoral researcher at <a href="https://mediafutures.no/">SFI MediaFutures </a> (University of Bergen, Norway), where I work on multimodal learning, LLMs, and deep generative models for real-world industry applications. 
@@ -88,7 +88,7 @@ My research focuses on building intelligent systems that can solve complex tasks
 </p>    
                                
                 <hr>
-                <h3> International Projects </h3>
+                <h3 id="Projects">International Projects</h3>
                 <ul>
                     <li>
                         <a href="https://mediafutures.no/" target="_blank"><strong>MediaFutures</strong></a> – Multimodal AI for news content analysis and generation (WP3)
@@ -102,7 +102,7 @@ My research focuses on building intelligent systems that can solve complex tasks
                 </ul>
 
                <hr>
-                <h3>Selected Publications</h3>
+               <h3 id="Publications">Selected Publications</h3>
                 <ul>
                
               <li>
@@ -166,7 +166,7 @@ My research focuses on building intelligent systems that can solve complex tasks
 
 
                 <hr>
-                <h3>Teaching & Mentorship</h3>
+            <h3 id="Teaching">Teaching & Mentorship</h3>
                 <ul>
                 <li>BSc: <em>AI Ethics</em>, UiB, 2024–2025</li>
                 <li>MSc: <em>Deep Learning & Computer Vision</em>, UW, 2024–2025</li>
