@@ -106,12 +106,10 @@
           <div style="font-size: 16px; font-weight: bold; margin-top: 15px; margin-bottom: 5px; white-space: nowrap;"> Adane N. Tarekegn
           </div>
 
-          <li style="margin: 15px 0 10px 0; display: flex; align-items: center;">
-            <img src="https://cdn-icons-png.flaticon.com/512/535/535239.png" alt="Location" style="height: 18px; width: 18px; margin-right: 8px; filter: grayscale(100%) brightness(0);">
-            <span style="color: black;">Bergen, Norway</span>
-          </li>
-
-
+            <li style="margin-bottom: 20px; display: flex; align-items: center;">
+              <img src="https://cdn-icons-png.flaticon.com/512/535/535239.png" alt="Location" style="height: 18px; width: 18px; margin-right: 8px; filter: grayscale(100%) brightness(0);">
+              <span style="color: black;">Bergen, Norway</span>
+            </li>
 
         
             <ul style="list-style: none; padding: 0; margin: 0; text-align: left; display: inline-block;">
