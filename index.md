@@ -26,20 +26,76 @@
 </head>
 
 <body>
-<header style="background-color: white; padding: 15px 40px; border-bottom: 1px solid #eaeaea; display: flex; justify-content: flex-start; align-items: center; font-family: Arial, sans-serif;">
+<style>
+  /* Basic layout for the menu */
+  .nav-menu {
+    display: flex;
+    gap: 20px;
+    font-family: Arial, sans-serif;
+  }
 
-   <div style="font-size: 1.4em; font-weight: 700; font-family: 'Georgia', serif; color: #222; margin-right: 40px;">
+  .nav-menu a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    position: relative;
+  }
+
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: white;
+    min-width: 160px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    z-index: 1;
+  }
+
+  .dropdown-content a {
+    display: block;
+    padding: 10px;
+    color: #333;
+    font-weight: normal;
+  }
+
+  .dropdown-content a:hover {
+    background-color: #f0f0f0;
+  }
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+</style>
+
+<header style="background-color: white; padding: 15px 40px; border-bottom: 1px solid #eaeaea; display: flex; justify-content: flex-start; align-items: center; font-family: Arial, sans-serif;">
+  <div style="font-size: 1.4em; font-weight: 700; font-family: 'Georgia', serif; color: #222; margin-right: 50px;">
     Adane Nega Tarekegn
   </div>
-  <nav>
-    <a href="#other" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold;"></a>
-    <a href="#about" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold;">Projects</a>
-    <a href="#projects" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold;">Publications</a>
-    <a href="#publications" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold;">Community Service</a>
-     <a href="#publications" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold;">Teaching </a>
-    
+
+  <nav class="nav-menu">
+    <a href="#projects">Projects</a>
+    <a href="#publications">Publications</a>
+
+    <!-- Community Service with Submenu -->
+    <div class="dropdown">
+      <a href="#">Community Service ▾</a>
+      <div class="dropdown-content">
+        <a href="#reviewing">Reviewing</a>
+        <a href="#talks">Talks</a>
+        <a href="#supervision">Supervision</a>
+      </div>
+    </div>
+
+    <a href="#teaching">Teaching</a>
   </nav>
 </header>
+
 
     <table>
         <tr>
