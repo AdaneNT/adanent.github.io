@@ -74,7 +74,7 @@
 </style>
 
 <header style="background-color: white; padding: 15px 40px; border-bottom: 1px solid #eaeaea; display: flex; justify-content: flex-start; align-items: center; font-family: Arial, sans-serif;">
-  <div style="font-size: 1.4em; font-weight: 700; font-family: 'Georgia', serif; color: #222; margin-right: 50px;">
+  <div style="font-size: 1.4em; font-weight: 700; font-family: 'Georgia', serif; color: #222; margin-right: 60px;">
     Adane Nega Tarekegn
   </div>
 
@@ -220,8 +220,46 @@ My research focuses on building intelligent systems that can solve complex tasks
                   </li>
                 </ul>
 
-
                 <hr>
+
+<h3 id="reviewing">Reviewing</h3>
+
+<h4>External Grant/Project Reviews</h4>
+<ul>
+  <li>
+    <em>“Multi-label Text Classification Under Imbalance Set Labels Scenario”</em>, 
+    National Research and Development Agency, Chile — June 2023
+  </li>
+  <li>
+    <em>“Automated Strategy for Assessing and Monitoring Ergonomic Risks of Musculoskeletal Disorders in Workplaces Using IoT Technological Instrumentation and Machine Learning Algorithms”</em>, 
+    National Research and Development Agency, Chile — December 2022
+  </li>
+</ul>
+
+<h4>Conference Reviewing</h4>
+<ul>
+  <li>ACM International Conference on Multimedia (ACM MM), 2025</li>
+  <li>European Conference on Artificial Intelligence (ECAI), 2024–2025</li>
+  <li>European Workshop on Visual Information Processing (EUVIP), 2025</li>
+  <li>International Conference on Artificial Neural Networks (ICANN), 2023</li>
+  <li>International Conference on Advancements of Science and Technology (ICAST), 2022–2025</li>
+</ul>
+
+<h4>Journal Reviewing</h4>
+<ul>
+  <li><em>Pattern Recognition</em></li>
+  <li><em>IEEE Transactions on Multimedia</em></li>
+  <li><em>IEEE Sensors Journal</em></li>
+  <li><em>Applied Soft Computing</em></li>
+  <li><em>IEEE Transactions on Knowledge and Data Engineering</em></li>
+</ul>
+
+<h4>Thesis Examination</h4>
+<ul>
+  <li>External Examiner – MSc Thesis, University of Gondar, Ethiopia, 2022/2023</li>
+  <li>Internal Examiner – MSc Thesis, Bahir Dar University, Ethiopia, 2022</li>
+</ul>
+
             <h3 id="teaching">Teaching & Mentorship</h3>
                 <ul>
                 <li>BSc: <em>AI Ethics</em>, UiB, 2024–2025</li>
