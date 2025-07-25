@@ -151,7 +151,7 @@ My research focuses on building intelligent systems that can solve complex tasks
                                
                 <hr>
                 <h3 id="projects">International Projects</h3>
-                <p> Below are three international research projects I have contributed to, focused on AI, machine learning, and real-world applications across healthcare, media, and environmental sensing.</p>
+                <p> Below are three selected international research projects I have contributed to, focused on AI, machine learning, and real-world applications across healthcare, media, and environmental sensing.</p>
                 <ul>
                     <li>
                     <a href="https://mediafutures.no/" target="_blank"><strong>MediaFutures</strong></a> – Multimodal AI for news content analysis and generation (WP3)<br>
