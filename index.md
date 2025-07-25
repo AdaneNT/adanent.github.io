@@ -263,8 +263,8 @@ My research focuses on building intelligent systems that can solve complex tasks
 
 <h4>Thesis Examination</h4>
 <ul>
-  <li>External Examiner – MSc Thesis, University of Gondar, Ethiopia, 2022/2023</li>
-  <li>Internal Examiner – MSc Thesis, Bahir Dar University, Ethiopia, 2022</li>
+  <li>External Examiner – 2 MSc Theses on AI/ML, University of Gondar, Ethiopia, 2022/2023</li>
+  <li>Internal Examiner – Several MSc Theses on AI/ML, Bahir Dar University, Ethiopia, 2021/2022</li>
 </ul>
 
  <hr>
@@ -272,7 +272,7 @@ My research focuses on building intelligent systems that can solve complex tasks
 <p>I have supervised MSc theses on topics in <strong>Machine Learning</strong>, <strong>Artificial Intelligence</strong>, <strong>Deep Learning</strong>, and <strong>Data Science</strong>,  spanning diverse application domains.</p>
 <ul>
   <li>Institutions: Bahir Dar University (BDU), University of Gondar (UoG), and Norwegian University of Science and Technology (NTNU).</li>
-  <li>Timeframe: 2022–2024.</li>
+  <li>Timeframe: 2021–2024.</li>
 </ul>
 
  <hr>
