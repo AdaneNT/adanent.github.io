@@ -144,7 +144,7 @@ My research focuses on building intelligent systems that can solve complex tasks
 </p>    
                                
                 <hr>
-                <h3 id="Projects">International Projects</h3>
+                <h3 id="projects">International Projects</h3>
                 <ul>
                     <li>
                         <a href="https://mediafutures.no/" target="_blank"><strong>MediaFutures</strong></a> – Multimodal AI for news content analysis and generation (WP3)
@@ -158,7 +158,7 @@ My research focuses on building intelligent systems that can solve complex tasks
                 </ul>
 
                <hr>
-               <h3 id="Publications">Selected Publications</h3>
+               <h3 id="publications">Selected Publications</h3>
                 <ul>
                
               <li>
@@ -222,7 +222,7 @@ My research focuses on building intelligent systems that can solve complex tasks
 
 
                 <hr>
-            <h3 id="Teaching">Teaching & Mentorship</h3>
+            <h3 id="teaching">Teaching & Mentorship</h3>
                 <ul>
                 <li>BSc: <em>AI Ethics</em>, UiB, 2024–2025</li>
                 <li>MSc: <em>Deep Learning & Computer Vision</em>, UW, 2024–2025</li>
