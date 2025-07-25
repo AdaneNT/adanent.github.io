@@ -260,6 +260,7 @@ My research focuses on building intelligent systems that can solve complex tasks
   <li>Internal Examiner – MSc Thesis, Bahir Dar University, Ethiopia, 2022</li>
 </ul>
 
+ <hr>
             <h3 id="teaching">Teaching & Mentorship</h3>
                 <ul>
                 <li>BSc: <em>AI Ethics</em>, UiB, 2024–2025</li>
