@@ -234,12 +234,12 @@ My research focuses on building intelligent systems that can solve complex tasks
 <h4>External Grant/Project Reviews</h4>
 <ul>
   <li>
-    <em>“Multi-label Text Classification Under Imbalance Set Labels Scenario”</em>, 
-    National Research and Development Agency, Chile — June 2023
-  </li>
-  <li>
     <em>“Automated Strategy for Assessing and Monitoring Ergonomic Risks of Musculoskeletal Disorders in Workplaces Using IoT Technological Instrumentation and Machine Learning Algorithms”</em>, 
-    National Research and Development Agency, Chile — December 2022
+    National Research and Development Agency, Chile — December 2023
+  </li>
+    <li>
+    <em>“Multi-label Text Classification Under Imbalance Set Labels Scenario”</em>, 
+    National Research and Development Agency, Chile — June 2022
   </li>
 </ul>
 
