@@ -268,6 +268,18 @@ My research focuses on building intelligent systems that can solve complex tasks
 </ul>
 
  <hr>
+
+ <hr>
+<h3 id="supervision">Supervision</h3>
+<hr>
+<h3 id="supervision">Supervision</h3>
+<p>I have supervised MSc theses on topics in <strong>Machine Learning</strong>, <strong>Artificial Intelligence</strong>, <strong>Natural Language Processing</strong>, and <strong>Deep Learning</strong>, spanning diverse application domains.</p>
+<ul>
+  <li>Supervision conducted at institutions including Bahir Dar University (BDU),  the University of Gondar (UoG), and Norwegian University of Science and Technology (NTNU).</li>
+  <li>Timeframe: 2021–2024.</li>
+</ul>
+
+ <hr>
             <h3 id="teaching">Teaching & Mentorship</h3>
                 <ul>
                 <li>BSc: <em>AI Ethics</em>, UiB, 2024–2025</li>
