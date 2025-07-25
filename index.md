@@ -281,7 +281,7 @@ My research focuses on building intelligent systems that can solve complex tasks
                 <ul>
                 <li><strong>MSc:</strong> <em>Deep Learning & Computer Vision</em> – University of Wollo, 2025</li>
                 <li><strong>BSc:</strong> <em>AI Ethics</em> – University of Bergen, 2024</li>
-               <li><strong>MSc:</strong> <em>Machine Learning</em>, <em>Human-Computer Interaction (HCI)</em> – Bahir Dar University, 2021</li>
+               <li><strong>MSc:</strong> <em>Machine Learning</em>, <em>Human-Computer Interaction (HCI)</em> – Bahir Dar University, 2021/2022</li>
                 <li><strong>Thesis Supervision:</strong> Machine Learning, Deep Learning, and Data Science projects, 2021–2024</li>
                 </ul>
             </td>
