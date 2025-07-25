@@ -151,7 +151,7 @@ My research focuses on building intelligent systems that can solve complex tasks
                         <a href="https://mediafutures.no/" target="_blank"><strong>MediaFutures</strong></a> – Multimodal AI for news content analysis and generation (WP3)<br>
                     </li>
                     <li>
-                        <a href="https://alamedaproject.eu/" target="_blank"><strong>Alameda Project</strong></a> – Data aggregation, AI analytics, deep learning for neurological disorders (WP4)<br>
+                        <a href="https://alamedaproject.eu/" target="_blank"><strong>Alameda Project</strong></a> – Data aggregation, AI analytics, deep learning for neurological disorder (WP4)<br>
                     </li>
                     <li>
                         <a href="https://agile.ro/adriatic/" target="_blank"><strong>ADRIATIC Project</strong></a> – Image preprocessing and computer vision for underwater environment recognition and sensing (WP4)<br>
