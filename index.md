@@ -26,15 +26,18 @@
 </head>
 
 <body>
-<header style="background-color: white; padding: 15px 0; text-align: center; border-bottom: 1px solid #eaeaea; margin: 0;">
-  <h1 style="font-size: 1.2em; margin: 0; color: #333; font-weight: 600;">Adane Nega Tarekegn &nbsp;|&nbsp; አዳነ ነጋ ታረቀኝ </h1>
-    <nav>
+<header style="background-color: white; padding: 15px 40px; border-bottom: 1px solid #eaeaea; display: flex; justify-content: space-between; align-items: center; font-family: Arial, sans-serif;">
+  <div style="font-size: 1.2em; color: #333; font-weight: 600;">
+    Adane Nega Tarekegn &nbsp;|&nbsp; አዳነ ነጋ ታረቀኝ
+  </div>
+  <nav>
     <a href="#about" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold;">About</a>
     <a href="#projects" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold;">Projects</a>
     <a href="#publications" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold;">Publications</a>
     <a href="#other" style="margin: 0 10px; text-decoration: none; color: #333; font-weight: bold;">Other</a>
   </nav>
 </header>
+
     <table>
         <tr>
          <!-- <td width="200px" valign="top" style="text-align: center; font-family: Arial, sans-serif;"> -->
