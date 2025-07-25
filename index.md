@@ -58,7 +58,10 @@
             </ul>
         </td>
 
-    <td valign="top">
+    <!-- <td valign="top"> -->
+
+    <td valign="top" style="padding-left: 30px;">
+
     
   <h3> About me </h3>
  <p> I’m Adane, an AI researcher working at the intersection of machine learning, computer vision, and multimodal AI, with applications in pattern recognition, content generation, and reasoning.</p>
