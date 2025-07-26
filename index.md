@@ -74,7 +74,7 @@
 </style>
 
 <header style="background-color: white; padding: 15px 40px; border-bottom: 1px solid #eaeaea; display: flex; justify-content: flex-start; align-items: center; font-family: Arial, sans-serif;">
-  <div style="font-size: 1.4em; font-weight: normal; font-family: 'Georgia', serif; color: #222; margin-right: 120px;">
+  <div style="font-size: 1.4em; font-weight: normal; font-family: 'Georgia', serif; color: #222; margin-right: 200px;">
     Adane Nega Tarekegn
   </div>
 
