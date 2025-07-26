@@ -75,7 +75,7 @@
 
 <header style="background-color: white; padding: 15px 40px; border-bottom: 1px solid #eaeaea; display: flex; justify-content: flex-start; align-items: center; font-family: Arial, sans-serif;">
   <div style="font-size: 1.4em; font-weight: normal; font-family: 'Georgia', serif; color: #222; margin-right: 200px;">
-    Adane Nega Tarekegn
+  <a href="#about" style="text-decoration: none; color: inherit;">Adane Nega Tarekegn</a>
   </div>
 
   <nav class="nav-menu">
@@ -137,7 +137,7 @@
     <!-- <td valign="top"> -->
 
     <td valign="top" style="padding-left: 40px;">
-<h3> About me</h3>
+<h3 id="about">About me</h3>
  <p>I’m Adane, an AI researcher working at the intersection of machine learning, computer vision, and multimodal AI, with applications in pattern recognition, data analysis, and decision-making.</p>
 
 <p style="text-align: justify;">
