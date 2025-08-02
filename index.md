@@ -25,6 +25,10 @@
 
 </head>
 
+<!-- Cloudflare Web Analytics -->
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "e128eeb648734b2890e4289863d29873"}'></script>
+<!-- End Cloudflare Web Analytics -->
+
 <body>
 <style>
   /* Basic layout for the menu */
