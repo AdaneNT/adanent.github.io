@@ -171,7 +171,15 @@ My work focuses on building intelligent systems that can solve complex tasks. Cu
                <hr>
                <h3 id="publications">Selected Publications</h3>
                 <ul>
-               
+              
+               <li>
+                <strong>A. N. Tarekegn et al. (2025).</strong><br>
+                <strong>Automated News Clip Generation via Robust Video Summarization.</strong><br>
+                <em>IEEE International Conference on Tools with Artificial Intelligence (ICTAI 2025), accepted — to appear.</em><br>
+                <a href="https://ictai.computer.org/2025/">Paper</a> ·
+                <a href="https://github.com/<your-repo>">Code</a> ·
+               </li>
+
               <li>
                 <strong>A. N. Tarekegn</strong>, B. Tessem, F. Rabbi (2025).<br> <strong>A New Cluster Validation Index Based on Stability Analysis</strong><br>
                 In <em>Proceedings of the 14th International Conference on Pattern Recognition Applications and Methods – ICPRAM</em>,  
