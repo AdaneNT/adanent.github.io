@@ -175,7 +175,7 @@ My work focuses on building intelligent systems that can solve complex tasks. Cu
                <li>
                 <strong>A. N. Tarekegn et al. (2025).</strong><br>
                 <strong>Automated News Clip Generation via Robust Video Summarization.</strong><br>
-                <em>IEEE International Conference on Tools with Artificial Intelligence (ICTAI 2025), accepted — to appear.</em><br>
+                <em>IEEE International Conference on Tools with Artificial Intelligence (ICTAI 2025), accepted — to appear.</em>
                 <a href="https://ictai.computer.org/2025/">Paper</a> ·
                 <a href="https://github.com/<your-repo>">Code</a> ·
                </li>
