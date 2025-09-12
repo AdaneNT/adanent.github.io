@@ -177,7 +177,7 @@ My work focuses on building intelligent systems that can solve complex tasks. Cu
                 <strong>Automated News Clip Generation via Robust Video Summarization.</strong><br>
                 <em>IEEE International Conference on Tools with Artificial Intelligence (ICTAI 2025), accepted — to appear.</em>
                 <a href="https://ictai.computer.org/2025/">[Paper]</a> 
-                <a href="https://github.com/<your-repo>">[Code]</a> 
+                <a href="https://github.com/AdaneNT/AI-Video-Clipping-">[Code]</a> 
                </li>
 
               <li>
