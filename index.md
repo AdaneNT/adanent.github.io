@@ -158,15 +158,15 @@ My work focuses on building intelligent systems that can solve complex tasks. Cu
                 <p> Below are three selected international research projects I have contributed to, focused on AI, machine learning, and real-world applications across media, healthcare, and environmental sensing.</p>
      <ul>
       <li>
-          Multimodal AI for Video Content Analysis and Generation (WP3).
+          Multimodal AI for Video Content Analysis and Generation (WP3),
           <a href="https://mediafutures.no/" target="_blank"><strong>MediaFutures</strong></a>
       </li>
       <li>
-          Data Aggregation, AI Analytics, Deep Learning for Monitoring Neurological Disorders (WP4).
+          Data Aggregation, AI Analytics, Deep Learning for Monitoring Neurological Disorders (WP4),
           <a href="https://alamedaproject.eu/" target="_blank"><strong>Alameda Project</strong></a>
       </li>
       <li>
-          Image Preprocessing and Computer Vision for Underwater Environment Recognition and Sensing (WP4).
+          Image Preprocessing and Computer Vision for Underwater Environment Recognition and Sensing (WP4),
           <a href="https://agile.ro/adriatic/" target="_blank"><strong>ADRIATIC Project</strong></a>
       </li>
   </ul>
@@ -277,8 +277,8 @@ My work focuses on building intelligent systems that can solve complex tasks. Cu
 
 <h4>Thesis Examination</h4>
 <ul>
-  <li>External Examiner – 2 MSc Theses on AI/ML, University of Gondar, Ethiopia, 2022/2023</li>
-  <li>Internal Examiner – Several MSc Theses on AI/ML, Bahir Dar University, Ethiopia, 2021/2022</li>
+  <li>External Examiner – MSc Theses on AI/ML, University of Gondar, 2022/2023</li>
+  <li>Internal Examiner – Several MSc Theses on AI/ML, Bahir Dar University, 2021/2022</li>
 </ul>
 
  <hr>
@@ -293,7 +293,7 @@ My work focuses on building intelligent systems that can solve complex tasks. Cu
             <h3 id="teaching">Teaching & Mentorship</h3>
                 <ul>
                 <li><strong>MSc:</strong> <em>Deep Learning & Computer Vision</em> – University of Wollo, 2025</li>
-                <li><strong>BSc:</strong> <em>AI Ethics</em> – University of Bergen, 2024</li>
+                <li><strong>BSc (Seminar Leader):</strong> <em>AI Ethics</em> – University of Bergen, 2024</li>
                <li><strong>MSc:</strong> <em>Machine Learning</em>, <em>Human-Computer Interaction (HCI)</em> – Bahir Dar University, 2021/2022</li>
                 <li><strong>Thesis Supervision:</strong> Machine Learning, Deep Learning, and Data Science projects, 2021–2024</li>
                 </ul>
