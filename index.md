@@ -185,13 +185,15 @@ My work focuses on building intelligent systems that can solve complex tasks. Cu
 
                </li>
               
-               <li>
-                <strong>A. N. Tarekegn et al. (2025).</strong><br>
-                <strong>Automated News Clip Generation via Robust Video Summarization.</strong><br>
-                <em>IEEE International Conference on Tools with Artificial Intelligence (ICTAI 2025), accepted — to appear.</em>
-                <a href="https://ictai.computer.org/2025/">[Paper]</a> 
-                <a href="https://github.com/AdaneNT/AI-Video-Clipping-">[Code]</a> 
-               </li>
+                 <li>
+                  <strong>A. N. Tarekegn</strong>, F. Rabbi, L. Steskal, B. Tessem (2025).<br>
+                  <strong>Automated News Clip Generation via Robust Video Summarization</strong><br>
+                  In <em>Proceedings of the 37th IEEE International Conference on Tools with Artificial Intelligence (ICTAI)</em>,  
+                  Athens, Greece, 03–05 November 2025.<br>
+                  DOI: 10.1109/ICTAI66417.2025.00103.<br>
+                  <a href="https://doi.org/10.1109/ICTAI66417.2025.00103" target="_blank">[Paper]</a>
+                  <a href="https://github.com/AdaneNT/AI-Video-Clipping-" target="_blank">[Code]</a>
+                </li>
 
               <li>
                 <strong>A. N. Tarekegn</strong>, B. Tessem, F. Rabbi (2025).<br> <strong>A New Cluster Validation Index Based on Stability Analysis</strong><br>
