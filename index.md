@@ -179,7 +179,8 @@ My work focuses on building intelligent systems that can solve complex tasks. Cu
                 <li>
                 <strong>A. N. Tarekegn et al. (2026).</strong><br>
                 <strong>Multimodal Video Summarization with Mamba and Bayesian Approach.</strong><br>
-                <em>32nd International Conference on Multimedia Modeling (MMM2026), accepted — to appear.</em>
+                <em>32nd International Conference on Multimedia Modeling (MMM2026), Lecture Notes in Computer Science, vol 16412. Springer, 
+                Singapore. https://doi.org/10.1007/978-981-95-6950-2_39.</em>
                <!-- <a href="https://mmm2026.cz/">[Paper]</a> -->
                <!-- <a href="https://github.com/AdaneNT/AI-Video-Clipping-">[Code]</a> -->
 
