@@ -192,9 +192,7 @@ My work focuses on building intelligent systems that can solve complex tasks. Cu
                   In <em>Proceedings of the 37th IEEE International Conference on Tools with Artificial Intelligence (ICTAI)</em>,  
                   Athens, Greece, 03–05 November 2025.<br>
                   DOI: 10.1109/ICTAI66417.2025.00103.<br>
-                  <a href="https://doi.org/10.1109/ICTAI66417.2025.00103" target="_blank">[Paper]</a>
-                  <a href="https://github.com/AdaneNT/AI-Video-Clipping-" target="_blank">[Code]</a>
-                </li>
+                  </li>
 
               <li>
                 <strong>A. N. Tarekegn</strong>, B. Tessem, F. Rabbi (2025).<br> <strong>A New Cluster Validation Index Based on Stability Analysis</strong><br>
