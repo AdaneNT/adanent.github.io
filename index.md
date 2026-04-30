@@ -155,7 +155,7 @@ My work focuses on building intelligent systems that can solve complex tasks. Cu
                                
                 <hr>
                 <h3 id="projects">International Projects</h3>
-                <p> Below are three selected international research projects I have contributed to, focused on AI, machine learning, and real-world applications across media, healthcare, and environmental sensing.</p>
+                <p> Below are three selected international research projects I have contributed to, focused on AI, machine learning, and real-world applications across media and  healthcare.</p>
      <ul>
       <li>
           Multimodal AI for Video Content Analysis and Generation (WP3),
