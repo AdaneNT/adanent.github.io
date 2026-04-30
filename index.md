@@ -167,7 +167,7 @@ My work focuses on building intelligent systems that can solve complex tasks. Cu
       </li>
       <li>
           Image Processing and Deep Learning for Object Detection and Recognition (WP4),
-          <a href="https://agile.ro/adriatic/" target="_blank"><strong>ADRIATIC Project</strong></a>
+          <a href="https://agile.ro/adriaticc/" target="_blank"><strong>ADRIATIC Project</strong></a>
       </li>
   </ul>
 
