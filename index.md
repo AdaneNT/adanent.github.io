@@ -166,7 +166,7 @@ My work focuses on building intelligent systems that can solve complex tasks. Cu
           <a href="https://alamedaproject.eu/" target="_blank"><strong>Alameda Project</strong></a>
       </li>
       <li>
-          Image Processing and Computer Vision for Object Detection and Recognition (WP4),
+          Image Processing and Deep Learning for Object Detection and Recognition (WP4),
           <a href="https://agile.ro/adriatic/" target="_blank"><strong>ADRIATIC Project</strong></a>
       </li>
   </ul>
