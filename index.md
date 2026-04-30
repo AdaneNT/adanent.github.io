@@ -162,7 +162,7 @@ My work focuses on building intelligent systems that can solve complex tasks. Cu
           <a href="https://mediafutures.no/" target="_blank"><strong>MediaFutures</strong></a>
       </li>
       <li>
-          Data Aggregation, AI Analytics, Deep Learning for Monitoring Neurological Disorders (WP4),
+          Data Aggregation, AI Analytics, Machine Learning for Monitoring Neurological Disorders (WP4),
           <a href="https://alamedaproject.eu/" target="_blank"><strong>Alameda Project</strong></a>
       </li>
       <li>
