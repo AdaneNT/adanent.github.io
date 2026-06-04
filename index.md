@@ -279,10 +279,6 @@ My work focuses on building intelligent systems that can solve complex tasks. Cu
  <hr>
 <h3 id="supervision">Supervision</h3>
 <p>I have supervised MSc theses on topics in <strong>Machine Learning</strong>, <strong>Artificial Intelligence</strong>, <strong>Deep Learning</strong>, and <strong>Data Science</strong>,  spanning diverse application domains.</p>
-<ul>
-  <li>Institutions: Bahir Dar University (BDU), University of Gondar (UoG), and Norwegian University of Science and Technology (NTNU).</li>
-  <li>Timeframe: 2021–2024.</li>
-</ul>
 
  <hr>
             <h3 id="teaching">Teaching & Mentorship</h3>
