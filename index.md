@@ -276,12 +276,6 @@ My work focuses on building intelligent systems that can solve complex tasks. Cu
   <li><em>IEEE Transactions on Circuits and Systems for Video Technology</em></li>
 </ul>
 
-<h4>Thesis Examination</h4>
-<ul>
-  <li>External Examiner – MSc Theses on AI/ML, University of Gondar, 2022/2023</li>
-  <li>Internal Examiner – Several MSc Theses on AI/ML, Bahir Dar University, 2021/2022</li>
-</ul>
-
  <hr>
 <h3 id="supervision">Supervision</h3>
 <p>I have supervised MSc theses on topics in <strong>Machine Learning</strong>, <strong>Artificial Intelligence</strong>, <strong>Deep Learning</strong>, and <strong>Data Science</strong>,  spanning diverse application domains.</p>
